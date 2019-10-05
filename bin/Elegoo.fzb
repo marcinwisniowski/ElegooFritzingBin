@@ -22,5 +22,49 @@
         <instance moduleIdRef="Breadboard-RSR03MB102-ModuleID" modelIndex="49" path="breadboard.fzp">
             <views/>
         </instance>
+        <!-- Passive -->
+        <instance moduleIdRef="__spacer__" modelIndex="3" path="Passive">
+           <text>Passive</text>
+           <views/>
+        </instance>
+        <instance moduleIdRef="ResistorModuleID" modelIndex="3" path="resistor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="200milCeramicCapacitorModuleID" modelIndex="85425327" path="">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SmallElectrolyticCapacitorModuleID" modelIndex="7" path="capacitor_electrolytic_small.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3254CBFC44diode" modelIndex="9" path="diode_1N4001_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2244EBEC21e" modelIndex="10" path="transistor_signal_PNP_TO92_EBC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="NPN-to92-ebc" modelIndex="11" path="transistor_signal_NPN_TO92_EBC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3234DBDC00PotentiometerModuleID" modelIndex="13" path="basic_poti.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="20A9BBEE34_ST" modelIndex="16" path="pushbutton_4_horizontal.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5mmColorLEDModuleID" modelIndex="24" path="LED-generic-5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d4d5af9700923b8a114f57961f29a8a0" modelIndex="24" path="led-rgb-4pin-cathode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d206ca0d70364191f0b3fd30d5e53c5d" modelIndex="18" path="Tilt switch.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2010BBCD20113" modelIndex="20" path="LDR_photocell_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2012BCEC1FBThermistorModuleID" modelIndex="85478665" path="thermistor_300mil.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>
