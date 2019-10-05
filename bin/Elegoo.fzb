@@ -2,6 +2,7 @@
 <module fritzingVersion="0.9.3b.04.19" icon="elegoo.png">
     <title>Elegoo Arduino Kit</title>
     <instances>
+        <!-- Boards -->
         <instance moduleIdRef="__spacer__" modelIndex="3" path="Boards">
           <text>Boards</text>
           <views/>
@@ -9,7 +10,13 @@
         <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="5548" path="arduino_Uno_Rev3(fix).fzp">
            <views/>
         </instance>
+        <instance moduleIdRef="Arduino_MEGA_2560-Rev3(fix)" modelIndex="5584" path="Arduino_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
         <instance moduleIdRef="Proto_shield_REV3" modelIndex="5584" path="Proto_shield_REV3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="proto_shield_v6MEGA" modelIndex="48" path="proto_shield_v6MEGA.fzp">
             <views/>
         </instance>
         <instance moduleIdRef="Breadboard-RSR03MB102-ModuleID" modelIndex="49" path="breadboard.fzp">
