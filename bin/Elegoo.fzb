@@ -88,9 +88,9 @@
            <text>Power</text>
            <views/>
         </instance>
-        <instance moduleIdRef="77c36646df552e9fe72f360837f556ccleg" modelIndex="" path="Battery block 9V.fzp">
+        <instance moduleIdRef="77c36646df552e9fe72f360837f556ccleg" modelIndex="37" path="Battery block 9V.fzp">
             <views/>
-        </instances>
+        </instance>
         <!-- Display -->
         <instance moduleIdRef="__spacer__" modelIndex="3" path="Display">
            <text>Display</text>
