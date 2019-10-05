@@ -7,7 +7,7 @@ before_script:
   - cp LICENSE bin/
   - cd bin
 script:
-  - zip ${RELESE_NAME}.fzbz *
+  - zip ${RELEASE_NAME}.fzbz *
 after_script:
   - cd ..
 deploy:
