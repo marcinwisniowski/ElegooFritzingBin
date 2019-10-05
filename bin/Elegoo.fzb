@@ -80,5 +80,8 @@
         <instance moduleIdRef="SparkFun-DigitalIC-MAX7219-DIP" modelIndex="85480206" path="sparkfun-digitalic-max7219-dip.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="1001AAACOptocoupler" modelIndex="35" path="optocoupler.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>
