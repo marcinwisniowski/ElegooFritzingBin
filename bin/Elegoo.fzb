@@ -66,5 +66,19 @@
         <instance moduleIdRef="2012BCEC1FBThermistorModuleID" modelIndex="85478665" path="thermistor_300mil.fzp">
             <views/>
         </instance>
+        <!-- ICs -->
+        <instance moduleIdRef="__spacer__" modelIndex="3" path="ICs">
+           <text>ICs</text>
+           <views/>
+        </instance>
+        <instance moduleIdRef="1a7828b6466fac9fd042221e931124c4" modelIndex="36" path="74HC595.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_L293D" modelIndex="85480205" path="L293D.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-MAX7219-DIP" modelIndex="85480206" path="sparkfun-digitalic-max7219-dip.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>
