@@ -8,13 +8,11 @@ before_script:
   - cd bin
 script:
   - zip ${RELEASE_NAME}.fzbz *
-after_script:
-  - cd ..
 deploy:
   provider: releases
   api_key:
     secure: LgUD+PrjKrXxKMvIVm+L0BXjVoC1FPaoLpqeJDg2v4RySprzzQoALD5d4jTXbCmjksIrhzqbBG58sS+h75z+hPPkLFdJG5hxGhlfz0LWaLrPbb2wkkU/kEm/v2JX+dAVC3hkkzKKplZo8VJRJwioDa9tdHF9wnT48UgbMkx8Zi125JUQ1HqHl+kMbfxRl1DegwCpRuBzleS7olCQF8rujMhQHhPS7VRnTwIsbZ3A5xCsHJCIDRlDfyyjDcGzbyP/N6rVZ2sgQ/gmPCDHCqekBlgCLtOzUN56cXJxZ4BUG5GmeyndkxyyfpBBicyGgEia63XtLGOJfX+agFY1u/Hahp/qnAXRwI86NuKSRTWdJisu1aMFIoRu/ejanPrhYHqiOTGnme1cCGFXI9U25iN1/jErr37d10k+MxfajpGNSabqODlKXBb/jkRWsasbONDdNJ46LXiR9+xxFr3XU/KSL9ZhWTw5I9HwQg8jjW/yAaHCGDHXaIesUbQ//eAE3UvMyqXTa7Nog/E3SKbOf/VcgBvNvwkplKQyYQFZ0j880U7PNHYLBbaOYYyctkspGBaZigDUtkJHK/7IqbxbdP1HDXEIRud/rnf+kMkKi054YPkkyDDaHPuMhSpnEIaxRXDKVbhF5RxIunaQbmep3Fd8fDHP4P/VfStX7NV5kwjPQOc=
   file_glob: true
-  file: bin/${RELEASE_NAME}.fzbz
+  file: ${RELEASE_NAME}.fzbz
   on:
     tags: true
