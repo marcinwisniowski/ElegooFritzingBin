@@ -1,0 +1,6 @@
+language: minimal
+
+before_script:
+  - cp LICENSE bin/
+  - cd bin
+script: zip elegoo.fzbz *
