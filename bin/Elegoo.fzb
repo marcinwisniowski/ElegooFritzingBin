@@ -83,5 +83,55 @@
         <instance moduleIdRef="1001AAACOptocoupler" modelIndex="35" path="optocoupler.fzp">
             <views/>
         </instance>
+        <!-- Power -->
+        <instance moduleIdRef="__spacer__" modelIndex="85479169" path="Power">
+           <text>Power</text>
+           <views/>
+        </instance>
+        <instance moduleIdRef="77c36646df552e9fe72f360837f556ccleg" modelIndex="" path="Battery block 9V.fzp">
+            <views/>
+        </instances>
+        <!-- Display -->
+        <instance moduleIdRef="__spacer__" modelIndex="3" path="Display">
+           <text>Display</text>
+           <views/>
+        </instance>
+        <instance moduleIdRef="LCD-GDM1602K" modelIndex="24" path="lcd-GDM1602K.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7segment13cat" modelIndex="25" path="7segment_13_cat.fzp">
+            <views/>
+        </instance>
+        7segment13an
+        <!-- Motors -->
+        <instance moduleIdRef="__spacer__" modelIndex="3" path="Motors">
+           <text>Motors</text>
+           <views/>
+        </instance>
+        <instance moduleIdRef="1000FADF10011leg" modelIndex="26" path="dc_motor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_Top_view" modelIndex="27" path="Dagu DGServo 9g (Top view).fzp">
+            <views/>
+        </instance>
+        <!-- Modules -->
+        <instance moduleIdRef="__spacer__" modelIndex="3" path="Modules">
+           <text>Modules</text>
+           <views/>
+        </instance>
+        <instance moduleIdRef="rtc_ds3231_breakout" modelIndex="40" path="rtc_ds3231_breakout.fzp">
+            <views/>
+        </instance>
+        <!-- Sensors -->
+        <instance moduleIdRef="__spacer__" modelIndex="3" path="Sensors">
+           <text>Sensors</text>
+           <views/>
+        </instance>
+        <instance moduleIdRef="hc-sr04_ultrafix_b8f5923dd02482d2c2bcc2b7aec1cdd8_13" modelIndex="50" path="HC-SR04 Ultrasonic Distance Sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPU6050_GY521_782354e339f672575bb20992ece4ab1b_9" modelIndex="51" path="InvenSense_MPU6050.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>
