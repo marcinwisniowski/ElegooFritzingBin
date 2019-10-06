@@ -4,7 +4,7 @@ env:
     - BUILD_NAME=Elegoo
     - RELEASE_NAME=${BUILD_NAME}-${TRAVIS_TAG}
 before_install:
-  - apt install -y libxml2-utils
+  - sudo apt install -y libxml2-utils
 addon:
   apt:
     update: true
