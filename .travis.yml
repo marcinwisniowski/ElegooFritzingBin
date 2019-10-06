@@ -4,9 +4,10 @@ env:
     - BUILD_NAME=Elegoo
     - RELEASE_NAME=${BUILD_NAME}-${TRAVIS_TAG}
 before_script:
+  - xmllint bin/${BUILD_NAME}.fzb
+script:
   - cp LICENSE bin/
   - cd bin
-script:
   - zip ${RELEASE_NAME}.fzbz *
 deploy:
   provider: releases
