@@ -148,5 +148,8 @@
         <instance moduleIdRef="MPU6050_GY521_782354e339f672575bb20992ece4ab1b_9" modelIndex="51" path="InvenSense_MPU6050.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11" modelIndex="52" path="part.Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>

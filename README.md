@@ -31,4 +31,5 @@ TBD...
 ### External Parts that were used or modified
 *   RFID-RC522 by *Sajjad Afzal*
 *   YwRobot Breadboard Power Supply by *Richard Bruneau*
+*   Water Level Sensor by *Richard Bruneau*
 *   Mini Stepper Motor Parts by *Paul Gallagher*

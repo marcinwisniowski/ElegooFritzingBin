@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="ADXL335_v13.fzp" moduleId="Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11" fritzingVersion="0.5.2b.02.18.4756">
+ <version>4</version>
+ <date>Sun Jul 3 2016</date>
+ <author>Richard Bruneau</author>
+ <description>A water level sensor. This sensor operates at 3V to 5V. The Sig (signal) pin outputs an analogue signal that is in proportion to the amount of water in contact with the sensor.</description>
+ <title>Water Level Sensor</title>
+ <url/>
+ <tags>
+  <tag>sensor</tag>
+  <tag>depth</tag>
+  <tag>level</tag>
+  <tag>water</tag>
+ </tags>
+ <properties>
+  <property name="family">water level</property>
+  <property name="variant">variant 1</property>
+  <property name="package">board</property>
+  <property name="spacing">300mil</property>
+  <property name="pins">3</property>
+ </properties>
+ <views>
+  <breadboardView>
+   <layers image="breadboard/Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11_pcb.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+   </layers>
+  </pcbView>
+  <iconView>
+   <layers image="icon/Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector8" name="SIG">
+   <description>SIG</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector8pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector8terminal" svgId="connector8pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector8pad"/>
+     <p layer="copper1" svgId="connector8pad"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector9" name="VCC">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector9pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector9terminal" svgId="connector9pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector9pad"/>
+     <p layer="copper1" svgId="connector9pad"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector10" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector10pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector10terminal" svgId="connector10pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector10pad"/>
+     <p layer="copper1" svgId="connector10pad"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <buses/>
+ <label>Water Level Sensor</label>
+</module>

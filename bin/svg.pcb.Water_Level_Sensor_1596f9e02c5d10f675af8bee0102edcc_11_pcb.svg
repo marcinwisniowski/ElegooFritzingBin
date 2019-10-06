@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1" enable-background="new 0 0 56.69 175.75" width="0.787361in" x="0px" id="Layer_2" y="0px" xml:space="preserve" height="2.44097in"  viewBox="0 0 56.69 175.75">
+    <desc >
+        <referenceFile >water-depth-sensor-PCB_v1.svg</referenceFile>
+    </desc>
+    <metadata >
+        <sfw >
+            <slices />
+            <sliceSourceBounds bottomLeftOrigin="true" width="57.69" x="-0.5" y="-0.5" height="176.75" />
+        </sfw>
+    </metadata>
+    <g gorn="0.2" id="silkscreen" >
+        <rect stroke-miterlimit="10" fill="none" width="56.69" stroke="#FFFFFF" height="175.75"  stroke-width="1"/>
+    </g>
+    <g gorn="0.3" id="copper1" >
+        <g gorn="0.3.0" id="copper0" >
+            <circle stroke-miterlimit="10" cy="5.875" gorn="0.3.0.0" r="2.023" fill="none" stroke="#F7BD13" id="connector8pad"  cx="20.081" stroke-width="1"/>
+            <circle stroke-miterlimit="10" cy="5.875" gorn="0.3.0.1" r="2.023" fill="none" stroke="#F7BD13" id="connector9pad"  cx="27.281" stroke-width="1"/>
+            <circle stroke-miterlimit="10" cy="5.875" gorn="0.3.0.2" r="2.023" fill="none" stroke="#F7BD13" id="connector10pad"  cx="34.481" stroke-width="1"/>
+        </g>
+    </g>
+</svg>
