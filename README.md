@@ -1,6 +1,8 @@
 # ElegooFritzingBin
 ## Fritzing Parts Bin for Elegoo Arduino Kits
 
+[![Build Status](https://travis-ci.org/marcinwisniowski/ElegooFritzingBin.svg?branch=master)](https://travis-ci.org/marcinwisniowski/ElegooFritzingBin)
+
 ### Itroduction
 This package contains definition of *Parts Bin* for the [Fritzing App](https://fritzing.org). This parts bin contains all the parts that can be find in the [Elegoo](https://elegoo.com) Arduino Kits. The bin forks as a Tab in the Fritzing App, which provides a listing of the parts. In this situation it uses a subset of *CORE* bin and extends it with some community made parts which are missing in official Fritzing Parts repository.
 
