@@ -25,6 +25,7 @@ List of supported Parts
 
 TBD...
 
-### External Parts thet were used or modified
+### External Parts that were used or modified
 *   RFID-RC522 by *Sajjad Afzal*
 *   YwRobot Breadboard Power Supply by *Richard Bruneau*
+*   Mini Stepper Motor Parts by *Paul Gallagher*

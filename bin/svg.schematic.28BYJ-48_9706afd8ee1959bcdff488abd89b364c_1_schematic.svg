@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="212.59842" width="212.59842" version="1.1"  id="svg5926" gorn="0">
+    <desc >
+        <referenceFile >28BYJ48_schematic.svg</referenceFile>
+    </desc>
+    <defs  id="defs5928"/>
+    <metadata  id="metadata5931">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  id="schematic" gorn="0.3">
+        <g  transform="matrix(0.25,0,0,0.25,73.080709,13.287402)">
+            <g >
+                <g >
+                    <g stroke-opacity="1"  stroke-width="12" id="g3791" stroke="#000000" gorn="0.3.0.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none">
+                        <path d="m 132.87401,53.149593 a 26.574802,26.574802 0 0 1 0,53.149607" fill="none" stroke-opacity="1"  stroke-width="12" id="path3019" stroke="#000000" gorn="0.3.0.0.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                        <g  transform="translate(6.6664554e-6,53.149606)">
+                            <g >
+                                <g >
+                                    <path d="m 132.87401,53.149593 a 26.574802,26.574802 0 0 1 0,53.149607" fill="none" stroke-opacity="1"  stroke-width="12" id="path3789" stroke="#000000" gorn="0.3.0.0.0.0.1.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0.25,0,0,0.25,73.080709,39.862203)">
+            <g >
+                <g >
+                    <g stroke-opacity="1"  stroke-width="12" id="g3795" stroke="#000000" gorn="0.3.1.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none">
+                        <path d="m 132.87401,53.149593 a 26.574802,26.574802 0 0 1 0,53.149607" fill="none" stroke-opacity="1"  stroke-width="12" id="path3797" stroke="#000000" gorn="0.3.1.0.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                        <g  transform="translate(6.6664554e-6,53.149606)">
+                            <g >
+                                <g >
+                                    <path d="m 132.87401,53.149593 a 26.574802,26.574802 0 0 1 0,53.149607" fill="none" stroke-opacity="1"  stroke-width="12" id="path3799" stroke="#000000" gorn="0.3.1.0.0.0.1.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="m 106.29921,26.5748 -53.149604,0 -26.574803,-3e-6" fill="none" stroke-opacity="1"  stroke-width="3" id="path3801" stroke="#000000" gorn="0.3.2" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"/>
+        <path d="m 106.29921,79.72441 -53.149604,0 -26.574803,-7e-6" fill="none" stroke-opacity="1"  stroke-width="3" id="path3803" stroke="#000000" gorn="0.3.3" style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <g  transform="matrix(0,-0.25,0.25,0,119.58662,139.51771)">
+            <g >
+                <g >
+                    <g stroke-opacity="1"  stroke-width="12" id="g3805" stroke="#000000" gorn="0.3.4.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none">
+                        <path d="m 132.87401,53.149593 a 26.574802,26.574802 0 0 1 0,53.149607" fill="none" stroke-opacity="1"  stroke-width="12" id="path3807" stroke="#000000" gorn="0.3.4.0.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                        <g  transform="translate(6.6664554e-6,53.149606)">
+                            <g >
+                                <g >
+                                    <path d="m 132.87401,53.149593 a 26.574802,26.574802 0 0 1 0,53.149607" fill="none" stroke-opacity="1"  stroke-width="12" id="path3809" stroke="#000000" gorn="0.3.4.0.0.0.1.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-0.25,0.25,0,146.16141,139.51771)">
+            <g >
+                <g >
+                    <g stroke-opacity="1"  stroke-width="12" id="g3811" stroke="#000000" gorn="0.3.5.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none">
+                        <path d="m 132.87401,53.149593 a 26.574802,26.574802 0 0 1 0,53.149607" fill="none" stroke-opacity="1"  stroke-width="12" id="path3813" stroke="#000000" gorn="0.3.5.0.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                        <g  transform="translate(6.6664554e-6,53.149606)">
+                            <g >
+                                <g >
+                                    <path d="m 132.87401,53.149593 a 26.574802,26.574802 0 0 1 0,53.149607" fill="none" stroke-opacity="1"  stroke-width="12" id="path3815" stroke="#000000" gorn="0.3.5.0.0.0.1.0.0.0" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="translate(26.574803,1.1682425e-5)">
+            <g >
+                <g >
+                    <path d="m 56.692912,132.87401 a 3.5433071,3.5433071 0 1 1 -7.086614,0 3.5433071,3.5433071 0 1 1 7.086614,0 z" fill="#000000"  fill-opacity="1" id="path3825" stroke="none" gorn="0.3.6.0.0.0"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.40625,0,0,1.40625,-27.405263,-21.592009)">
+            <g >
+                <g >
+                    <path d="m 159.44881,53.14959 a 26.574802,26.574802 0 1 1 -53.1496,0 26.574802,26.574802 0 1 1 53.1496,0 z" fill="none" stroke-opacity="1"  stroke-width="3" id="path3827" stroke="#000000" gorn="0.3.7.0.0.0" style="stroke-miterlimit:4;stroke-dasharray:none"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.40625,0,0,1.40625,-27.405263,-21.592009)">
+            <g >
+                <g >
+                    <path d="m 151.18692,59.814943 a 19.48819,19.48819 0 1 1 1.17528,-6.665354" fill="none" stroke-opacity="1"  stroke-width="1.5" id="path3829" stroke="#000000" gorn="0.3.8.0.0.0" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"/>
+                </g>
+            </g>
+        </g>
+        <path d="m 186.96598,53.14138 2.26477,-2.69904" fill="none" stroke-opacity="1"  stroke-width="2.109375" id="path3831" stroke="#000000" gorn="0.3.9" style="color:#000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <path d="m 186.96598,53.14138 -2.69901,-2.26476" fill="none" stroke-opacity="1"  stroke-width="2.109375" id="path3833" stroke="#000000" gorn="0.3.10" style="color:#000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <path d="m 132.87401,106.29921 0,53.1496 -79.724404,0 -26.574803,0" fill="none" stroke-opacity="1"  stroke-width="3" id="path3835" stroke="#000000" gorn="0.3.11" style="color:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <path d="m 186.02362,106.29921 0,79.72441 -132.874014,0 -26.574803,0" fill="none" stroke-opacity="1"  stroke-width="3" id="path3837" stroke="#000000" gorn="0.3.12" style="color:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <path d="m 150.59055,62.00787 1.77165,-19.488188 7.08662,7.086618 7.08661,-7.086622 1.77165,19.488192" fill="none" stroke-opacity="1"  stroke-width="3" id="path3855" stroke="#000000" gorn="0.3.13" style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <g  transform="translate(26.574803,1.1682425e-5)">
+            <g >
+                <g >
+                    <path d="m 100.98425,132.87401 a 5.3149605,5.3149605 0 0 1 10.62992,0" fill="none" stroke-opacity="1"  stroke-width="3" id="path3859" stroke="#000000" gorn="0.3.14.0.0.0" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                </g>
+            </g>
+        </g>
+        <path d="m 159.44882,106.29921 0,26.5748 -21.25985,0" fill="none" stroke-opacity="1"  stroke-width="3" id="path3865" stroke="#000000" gorn="0.3.15" style="color:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <path d="m 127.55905,132.87401 -74.409444,0 -26.574803,0" fill="none" stroke-opacity="1"  stroke-width="3" id="path3869" stroke="#000000" gorn="0.3.16" style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <g  transform="matrix(0,1,-1,0,212.59841,-26.574803)">
+            <g >
+                <g >
+                    <path d="m 100.98425,132.87401 a 5.3149605,5.3149605 0 0 1 10.62992,0" fill="none" stroke-opacity="1"  stroke-width="3" id="path3873" stroke="#000000" gorn="0.3.17.0.0.0" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"/>
+                </g>
+            </g>
+        </g>
+        <path d="m 106.29921,53.1496 -26.574801,0 0,21.25985" fill="none" stroke-opacity="1"  stroke-width="3" id="path3875" stroke="#000000" gorn="0.3.18" style="color:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <path d="m 79.724409,85.03937 0,47.83464" fill="none" stroke-opacity="1"  stroke-width="3" id="path3879" stroke="#000000" gorn="0.3.19" style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+        <g fill="#000000"  font-size="8" fill-opacity="1" id="text3930" xml:space="preserve" stroke="none" gorn="0.3.20" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:DroidSans;-inkscape-font-specification:DroidSans">
+            <text x="50" y="23.03149"  id="tspan3932" gorn="0.3.20.0" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">ORANGE</text>
+        </g>
+        <g fill="#000000"  font-size="8" fill-opacity="1" id="text3934" xml:space="preserve" stroke="none" gorn="0.3.21" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:DroidSans;-inkscape-font-specification:DroidSans">
+            <text x="31.889765" y="76.181099"  id="tspan3936" gorn="0.3.21.0" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">PINK</text>
+        </g>
+        <g fill="#000000"  font-size="8" fill-opacity="1" id="text3938" xml:space="preserve" stroke="none" gorn="0.3.22" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:DroidSans;-inkscape-font-specification:DroidSans">
+            <text x="31.887362" y="129.33072"  id="tspan3940" gorn="0.3.22.0" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">RED</text>
+        </g>
+        <g fill="#000000"  font-size="8" fill-opacity="1" id="text3942" xml:space="preserve" stroke="none" gorn="0.3.23" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:DroidSans;-inkscape-font-specification:DroidSans">
+            <text x="31.887362" y="155.90552"  id="tspan3944" gorn="0.3.23.0" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">YELLOW</text>
+        </g>
+        <g fill="#000000"  font-size="8" fill-opacity="1" id="text3946" xml:space="preserve" stroke="none" gorn="0.3.24" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:DroidSans;-inkscape-font-specification:DroidSans">
+            <text x="31.887362" y="182.48032"  id="tspan3948" gorn="0.3.24.0" style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">BLUE</text>
+        </g>
+        <rect height="7.0866141" width="7.0866141" fill="none" x="23.031496" y="23.03149"  id="connector4pin" stroke="none" gorn="0.3.25"/>
+        <rect height="7.0866141" width="7.0866141" fill="none" x="23.031498" y="76.181099"  id="connector2pin" stroke="none" gorn="0.3.26"/>
+        <rect height="7.0866141" width="7.0866141" fill="none" x="23.031498" y="129.33072"  id="connector3pin" stroke="none" gorn="0.3.27"/>
+        <rect height="7.0866141" width="7.0866141" fill="none" x="23.031498" y="155.90552"  id="connector5pin" stroke="none" gorn="0.3.28"/>
+        <rect height="7.0866141" width="7.0866141" fill="none" x="23.031498" y="182.48032"  id="connector1pin" stroke="none" gorn="0.3.29"/>
+    </g>
+</svg>

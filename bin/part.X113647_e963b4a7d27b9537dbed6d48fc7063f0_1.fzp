@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="ULN2003A__fccb37c87e45f666f0e3e7377b16e060.fzp" fritzingVersion="0.3.14b.12.23.3905" moduleId="X113647_e963b4a7d27b9537dbed6d48fc7063f0_1">
+ <version>1.0</version>
+ <author>Paul Gallagher</author>
+ <title>X113647 Stepper Driver Board</title>
+ <label>X113647</label>
+ <date>Tue Sep 17 2019</date>
+ <tags/>
+ <properties>
+  <property name="package">board</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+  <property name="spacing">300mil</property>
+  <property name="variant">variant 2</property>
+  <property name="chip label">ULN2003APG</property>
+  <property name="family">Stepper Motor Driver</property>
+  <property name="pins">11</property>
+ </properties>
+ <description>A common stepper motor driver board based on ULN2003APG darlington array.</description>
+ <views>
+  <iconView>
+   <layers image="icon/X113647_e963b4a7d27b9537dbed6d48fc7063f0_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/X113647_e963b4a7d27b9537dbed6d48fc7063f0_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <pcbView>
+   <layers image="pcb/X113647_e963b4a7d27b9537dbed6d48fc7063f0_1_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+   </layers>
+  </pcbView>
+  <schematicView>
+   <layers image="schematic/X113647_e963b4a7d27b9537dbed6d48fc7063f0_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+ </views>
+ <connectors>
+  <connector type="male" name="IN1" id="connector1">
+   <description>IN1</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="IN2" id="connector2">
+   <description>IN2</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="IN3" id="connector3">
+   <description>IN3</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="IN4" id="connector4">
+   <description>IN4</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="GND" id="connector5">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="+V" id="connector6">
+   <description>+5-12V</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="BLUE" id="connector7">
+   <description>BLUE</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="PINK" id="connector8">
+   <description>PINK</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="YELLOW" id="connector9">
+   <description>YELLOW</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="ORANGE" id="connector10">
+   <description>ORANGE</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector10pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector10pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector10pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="RED" id="connector11">
+   <description>RED</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector11pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector11pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector11pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

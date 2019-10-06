@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="0.2in" width="0.6in" version="1.2" x="0in" y="0in"  id="svg2" viewBox="0 0 43.2 14.4" gorn="0">
+    <desc >
+        <referenceFile >28BYJ48_pcb.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata37">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs35"/>
+    <g  id="g4" gorn="0.3" partID="854147070">
+        <g  id="copper0" gorn="0.3.0">
+            <g  id="copper1" gorn="0.3.0.0">
+                <path d="m9,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="path15" stroke="#f6ca34" gorn="0.3.0.0.0" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m16.2,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="path17" stroke="#f6ca34" gorn="0.3.0.0.1" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m23.4,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="path19" stroke="#f6ca34" gorn="0.3.0.0.2" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m30.6,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="path21" stroke="#f6ca34" gorn="0.3.0.0.3" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m37.8,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="path23" stroke="#f6ca34" gorn="0.3.0.0.4" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m9,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="connector1pad" stroke="#f6ca34" gorn="0.3.0.0.5" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m16.2,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="connector2pad" stroke="#f6ca34" gorn="0.3.0.0.6" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m23.4,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="connector3pad" stroke="#f6ca34" gorn="0.3.0.0.7" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m30.6,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="connector4pad" stroke="#f6ca34" gorn="0.3.0.0.8" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+                <path d="m37.8,7.2a1.8,1.8,0,0,1,-3.6,0,1.8,1.8,0,1,1,3.6,0z" fill="none" stroke-opacity="1"  stroke-width="1.44" id="connector5pad" stroke="#f6ca34" gorn="0.3.0.0.9" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;display:inline"/>
+            </g>
+        </g>
+    </g>
+    <g  id="g25" gorn="0.4" partID="854147071">
+        <g  transform="matrix(1.52777, 0, 0, 0.473684, -0.379992, -6.4421)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g  id="g27" gorn="0.4.0.0.0.0.0.0">
+                                <g  id="silkscreen" gorn="0.4.0.0.0.0.0.0.0">
+                                    <g  id="g30" gorn="0.4.0.0.0.0.0.0.0.0">
+                                        <rect height="27.36" width="27.36" fill="none" x="0.72" stroke-opacity="1" y="15.12"  stroke-width="0.3" id="rect214639" stroke="#ffffff" gorn="0.4.0.0.0.0.0.0.0.0.0" style="stroke-miterlimit:4;stroke-dasharray:none"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

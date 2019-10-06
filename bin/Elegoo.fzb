@@ -117,6 +117,12 @@
         <instance moduleIdRef="Dagu_DGServo_9g_Top_view" modelIndex="27" path="Dagu DGServo 9g (Top view).fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="28BYJ-48_9706afd8ee1959bcdff488abd89b364c_1" modelIndex="28" path="part.28BYJ-48_9706afd8ee1959bcdff488abd89b364c_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="X113647_e963b4a7d27b9537dbed6d48fc7063f0_1" modelIndex="29" path="part.X113647_e963b4a7d27b9537dbed6d48fc7063f0_1.fzp">
+            <views/>
+        </instance>
         <!-- Modules -->
         <instance moduleIdRef="__spacer__" modelIndex="3" path="Modules">
            <text>Modules</text>

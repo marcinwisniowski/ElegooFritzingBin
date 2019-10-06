@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="Adafruit_Gear_reduced_Stepper_Motor__d8ce93a6679b20c1ff4c2bd648c5b07d.fzp" fritzingVersion="0.7.5b.07.02.6130" moduleId="28BYJ-48_9706afd8ee1959bcdff488abd89b364c_1">
+ <author>Paul Gallagher</author>
+ <title>28BYJ-48 Stepper Motor</title>
+ <label>MOTOR</label>
+ <date>Tue Sep 17 2019</date>
+ <url/>
+ <tags>
+  <tag>motor</tag>
+  <tag>stepper</tag>
+  <tag>drive</tag>
+ </tags>
+ <properties>
+  <property name="family">Stepper Motor</property>
+  <property name="variant">variant 1</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+ </properties>
+ <description>28BYJ-48 gear-reduction stepper motor (small)</description>
+ <views>
+  <iconView>
+   <layers image="icon/28BYJ-48_9706afd8ee1959bcdff488abd89b364c_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/28BYJ-48_9706afd8ee1959bcdff488abd89b364c_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/28BYJ-48_9706afd8ee1959bcdff488abd89b364c_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/28BYJ-48_9706afd8ee1959bcdff488abd89b364c_1_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" name="RED" id="connector3">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pad" layer="copper1"/>
+     <p svgId="connector3pad" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="ORANGE" id="connector4">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pad" layer="copper1"/>
+     <p svgId="connector4pad" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="YELLOW" id="connector5">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pad" layer="copper1"/>
+     <p svgId="connector5pad" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="BLUE" id="connector1">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper1"/>
+     <p svgId="connector1pad" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="PINK" id="connector2">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pad" layer="copper1"/>
+     <p svgId="connector2pad" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>
