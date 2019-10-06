@@ -20,6 +20,9 @@ The Bin contains items, which can be find in different Elegoo kits. However it w
 *   [Elegoo 37-in-1 Sensor Modules Kit V2.0](https://www.elegoo.com/product/elegoo-upgraded-37-in-1-sensor-modules-kit-v2-0/)
 *   [Elegoo Electronics Fun Kit](https://www.elegoo.com/product/elegoo-electronics-fun-kit/)
 
+### Download
+Use Releases link to access all bulided varsion of this Parts Library or use following link to  access the [latest release](https://github.com/marcinwisniowski/ElegooFritzingBin/releases/latest) and download the most recent *FZBZ file*.
+
 ### Contents
 List of supported Parts
 
