@@ -24,3 +24,7 @@ The Bin contains items, which can be find in different Elegoo kits. However it w
 List of supported Parts
 
 TBD...
+
+### External Parts thet were used or modified
+*   RFID-RC522 by *Sajjad Afzal*
+*   YwRobot Breadboard Power Supply by *Richard Bruneau*

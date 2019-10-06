@@ -22,9 +22,9 @@
         <instance moduleIdRef="Breadboard-RSR03MB102-ModuleID" modelIndex="49" path="breadboard.fzp">
             <views/>
         </instance>
-        <!-- Passive -->
-        <instance moduleIdRef="__spacer__" modelIndex="3" path="Passive">
-           <text>Passive</text>
+        <!-- Basic -->
+        <instance moduleIdRef="__spacer__" modelIndex="3" path="Basic">
+           <text>Basic</text>
            <views/>
         </instance>
         <instance moduleIdRef="ResistorModuleID" modelIndex="3" path="resistor.fzp">
@@ -89,6 +89,9 @@
            <views/>
         </instance>
         <instance moduleIdRef="77c36646df552e9fe72f360837f556ccleg" modelIndex="37" path="Battery block 9V.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="YwRobot_Breadbord_Power_885a9d51df38dd69d0602db6e1f848ab_3" modelIndex="38" path="part.YwRobot_Breadbord_Power_885a9d51df38dd69d0602db6e1f848ab_3.fzp">
             <views/>
         </instance>
         <!-- Display -->
