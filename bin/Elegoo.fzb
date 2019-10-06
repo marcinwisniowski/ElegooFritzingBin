@@ -102,6 +102,9 @@
         <instance moduleIdRef="LCD-GDM1602K" modelIndex="24" path="lcd-GDM1602K.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="8x8_LED_Matrix_MAX7219_51b9a6ce740cc4cd4350f7299c78f477_2" modelIndex="30" path="part.8x8_LED_Matrix_MAX7219_51b9a6ce740cc4cd4350f7299c78f477_2.fzp">
+            <views/>
+        </instance>
         <instance moduleIdRef="7segment13cat" modelIndex="25" path="7segment_13_cat.fzp">
             <views/>
         </instance>

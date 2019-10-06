@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1.38938in" gorn="0" version="1.1" id="Ebene_1" y="0px" viewBox="0 0 100.035 180.333" enable-background="new 0 0 100.035 180.333"  xml:space="preserve" height="2.50462in">
+    <desc >
+        <referenceFile >8x8 LED Modul mit MAX7219.svg</referenceFile>
+    </desc>
+    <path fill="#009540" d="M4.62,18.606v141.732h91.875V18.606H4.62z M80.869,154.359l-0.341-0.007l-0.018,0.007l-0.612-0.016l-0.559-2.144l-0.558,2.146l-0.229-0.012l-0.005,0.012l-0.835,0.013l-1.509-5.806H74.97v5.793h-0.969v-5.793H72.51v-0.957h1.491h0.969h1.438l0.544-0.013l1.294,4.978l0.501-1.923l0.577-0.24l0.609,0.239l0.452,1.738l1.247-4.792l0.938,0.237L80.869,154.359z" />
+    <title >layer 25</title>
+    <g >
+        <title >element:A1</title>
+        <g >
+            <title >package:FIDUCIA-MOUNT</title>
+        </g>
+    </g>
+    <g >
+        <title >element:A2</title>
+        <g >
+            <title >package:FIDUCIA-MOUNT</title>
+        </g>
+    </g>
+    <g >
+        <title >element:A3</title>
+        <g >
+            <title >package:FIDUCIA-MOUNT</title>
+        </g>
+    </g>
+    <g >
+        <title >element:C1</title>
+        <g >
+            <title >package:0603-CAP</title>
+        </g>
+    </g>
+    <g >
+        <title >element:C2</title>
+        <g >
+            <title >package:EIA3216</title>
+        </g>
+    </g>
+    <g >
+        <title >element:C3</title>
+        <g >
+            <title >package:EIA3216</title>
+        </g>
+    </g>
+    <g >
+        <title >element:C4</title>
+        <g >
+            <title >package:0603-CAP</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC1</title>
+        <g >
+            <title >package:SC70-5</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC2</title>
+        <g >
+            <title >package:SOT223</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC3</title>
+        <g >
+            <title >package:SC70-5</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC4</title>
+        <g >
+            <title >package:SC70-5</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC5</title>
+        <g >
+            <title >package:SC70-5</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC6</title>
+        <g >
+            <title >package:MSOP08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J1</title>
+        <g >
+            <title >package:1X08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J2</title>
+        <g >
+            <title >package:1X08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J3</title>
+        <g >
+            <title >package:1X06</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J6</title>
+        <g >
+            <title >package:1X08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J7</title>
+        <g >
+            <title >package:1X08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:JP1</title>
+        <g >
+            <title >package:1X10</title>
+        </g>
+    </g>
+    <g >
+        <title >element:JP2</title>
+        <g >
+            <title >package:1X10</title>
+        </g>
+    </g>
+    <g >
+        <title >element:POWER1</title>
+        <g >
+            <title >package:1X06</title>
+        </g>
+    </g>
+    <g >
+        <title >element:RESET1</title>
+        <g >
+            <title >package:TS42</title>
+        </g>
+    </g>
+    <g >
+        <title >element:RN1</title>
+        <g >
+            <title >package:CAY16</title>
+        </g>
+    </g>
+    <g >
+        <title >element:X1</title>
+        <g >
+            <title >package:SDCARD-15TW-8821</title>
+        </g>
+    </g>
+    <g >
+        <title >element:XB1</title>
+        <g >
+            <title >package:XBEE-PRO</title>
+        </g>
+    </g>
+    <g >
+        <g >
+            <polygon fill="#1D1D1B"  points="55.885,21.737 60.495,21.737 61.643,22.93 61.643,28.203 60.579,29.269 55.692,29.269 54.78,28.354 54.78,22.843 "/>
+            <rect x="57.408" width="1.458" fill="#868686" y="5.35"  height="20.811"/>
+        </g>
+        <g >
+            <polygon fill="#1D1D1B"  points="63.038,21.556 67.647,21.556 68.795,22.747 68.795,28.021 67.731,29.086 62.844,29.086 61.932,28.173 61.932,22.662 "/>
+            <rect x="64.561" width="1.457" fill="#868686" y="5.167"  height="20.81"/>
+        </g>
+        <g >
+            <polygon fill="#1D1D1B"  points="48.608,21.919 53.217,21.919 54.366,23.11 54.366,28.385 53.301,29.451 48.415,29.451 47.502,28.538 47.502,23.025 "/>
+            <rect x="50.131" width="1.457" fill="#868686" y="5.531"  height="20.811"/>
+        </g>
+        <g >
+            <polygon fill="#1D1D1B"  points="41.345,21.919 45.956,21.919 47.104,23.11 47.104,28.385 46.04,29.451 41.152,29.451 40.24,28.538 40.24,23.025 "/>
+            <rect x="42.869" width="1.458" fill="#868686" y="5.531"  height="20.811"/>
+        </g>
+        <g >
+            <polygon fill="#1D1D1B"  points="33.932,21.919 38.541,21.919 39.689,23.11 39.689,28.385 38.625,29.451 33.737,29.451 32.826,28.538 32.826,23.025 "/>
+            <rect x="35.455" width="1.458" fill="#868686" y="5.531"  height="20.811"/>
+        </g>
+    </g>
+    <circle fill="#FFFFFF" stroke-width="1" stroke="#1D1D1B" cx="12.367" cy="27.11" r="4.252" stroke-miterlimit="10" />
+    <circle fill="#FFFFFF" stroke-width="1" stroke="#1D1D1B" cx="88.901" cy="27.11" r="4.252" stroke-miterlimit="10" />
+    <circle fill="#FFFFFF" stroke-width="1" stroke="#1D1D1B" cx="88.901" cy="151.835" r="4.252" stroke-miterlimit="10" />
+    <circle fill="#FFFFFF" stroke-width="1" stroke="#1D1D1B" cx="12.367" cy="151.835" r="4.252" stroke-miterlimit="10" />
+    <rect x="5.279" width="90.71" y="18.606" stroke-width="1" stroke="#1D1D1B" stroke-miterlimit="10"  height="92.867"/>
+    <g >
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="10.223" cy="23.697" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="21.56" cy="23.697" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="33.299" cy="23.697" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="44.798" cy="23.697" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="56.377" cy="23.697" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="67.875" cy="23.697" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="79.374" cy="23.697" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="90.791" cy="23.697" r="4.36" stroke-miterlimit="10" />
+    </g>
+    <g >
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="10.264" cy="35.195" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="21.6" cy="35.195" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="33.34" cy="35.195" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="44.838" cy="35.195" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="56.418" cy="35.195" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="67.917" cy="35.195" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="79.415" cy="35.195" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="90.831" cy="35.195" r="4.359" stroke-miterlimit="10" />
+    </g>
+    <g >
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="9.898" cy="46.613" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="21.235" cy="46.613" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="32.976" cy="46.613" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="44.474" cy="46.613" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="56.053" cy="46.613" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="67.551" cy="46.613" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="79.049" cy="46.613" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="90.466" cy="46.613" r="4.359" stroke-miterlimit="10" />
+    </g>
+    <g >
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="9.898" cy="58.19" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="21.235" cy="58.19" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="32.976" cy="58.19" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="44.474" cy="58.19" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="56.053" cy="58.19" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="67.551" cy="58.19" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="79.049" cy="58.19" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="90.466" cy="58.19" r="4.359" stroke-miterlimit="10" />
+    </g>
+    <g >
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="9.898" cy="69.771" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="21.235" cy="69.771" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="32.976" cy="69.771" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="44.474" cy="69.771" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="56.053" cy="69.771" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="67.551" cy="69.771" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="79.049" cy="69.771" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="90.466" cy="69.771" r="4.359" stroke-miterlimit="10" />
+    </g>
+    <g >
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="9.939" cy="81.27" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="21.275" cy="81.27" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="33.016" cy="81.27" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="44.515" cy="81.27" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="56.094" cy="81.27" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="67.591" cy="81.27" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="79.089" cy="81.27" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="90.506" cy="81.27" r="4.359" stroke-miterlimit="10" />
+    </g>
+    <g >
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="9.939" cy="92.848" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="21.276" cy="92.848" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="33.016" cy="92.847" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="44.515" cy="92.847" r="4.36" stroke-miterlimit="10" />
+        <path fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" d="M60.454,92.847c0,2.408-1.952,4.361-4.361,4.361c-2.406,0-4.357-1.953-4.357-4.361c0-2.406,1.951-4.356,4.357-4.356C58.501,88.49,60.454,90.441,60.454,92.847z" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="67.592" cy="92.847" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="79.09" cy="92.848" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="90.507" cy="92.847" r="4.36" stroke-miterlimit="10" />
+    </g>
+    <g >
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="9.939" cy="104.427" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="21.276" cy="104.427" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="33.016" cy="104.428" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="44.515" cy="104.428" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="56.094" cy="104.427" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="67.592" cy="104.428" r="4.36" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="79.09" cy="104.427" r="4.359" stroke-miterlimit="10" />
+        <circle fill="#D9D9D9" stroke-width="0.25" stroke="#1D1D1B" cx="90.507" cy="104.428" r="4.36" stroke-miterlimit="10" />
+    </g>
+    <rect x="8.262" width="84.131" fill="#1D1D1B" y="117.182" stroke-width="0.25" stroke="#1D1D1B" stroke-miterlimit="10"  height="16.924"/>
+    <g >
+        <rect x="16.871" width="2.024" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="10.271" width="2.025" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="24.402" width="2.023" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="31.502" width="2.023" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="38.774" width="2.024" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="45.981" width="2.023" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="53.268" width="2.023" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="60.555" width="2.025" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="68.045" width="2.023" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="75.251" width="2.024" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="82.215" width="2.025" fill="#9C9B9B" y="113.821"  height="3.359"/>
+        <rect x="88.993" width="2.025" fill="#9C9B9B" y="113.821"  height="3.359"/>
+    </g>
+    <g >
+        <rect x="16.869" width="2.025" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="10.271" width="2.024" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="24.399" width="2.024" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="31.5" width="2.025" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="38.772" width="2.025" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="45.979" width="2.023" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="53.266" width="2.023" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="60.553" width="2.025" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="68.043" width="2.023" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="75.25" width="2.023" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="82.213" width="2.023" fill="#9C9B9B" y="134.078"  height="3.358"/>
+        <rect x="88.991" width="2.025" fill="#9C9B9B" y="134.078"  height="3.358"/>
+    </g>
+    <g >
+        <g >
+            <polygon fill="#1D1D1B"  points="46.843,160.087 42.233,160.087 41.084,158.895 41.084,153.623 42.149,152.557 47.036,152.557 47.948,153.471 47.948,158.981 "/>
+            <rect x="43.862" width="1.457" fill="#868686" y="155.666"  height="20.812"/>
+        </g>
+        <g >
+            <polygon fill="#1D1D1B"  points="39.689,160.27 35.08,160.27 33.932,159.078 33.932,153.805 34.997,152.737 39.882,152.737 40.795,153.651 40.795,159.164 "/>
+            <rect x="36.708" width="1.458" fill="#868686" y="155.85"  height="20.809"/>
+        </g>
+        <g >
+            <polygon fill="#1D1D1B"  points="54.12,159.906 49.508,159.906 48.36,158.714 48.36,153.438 49.426,152.375 54.313,152.375 55.225,153.289 55.225,158.798 "/>
+            <rect x="51.139" width="1.457" fill="#868686" y="155.483"  height="20.812"/>
+        </g>
+        <g >
+            <polygon fill="#1D1D1B"  points="61.381,159.906 56.772,159.906 55.624,158.714 55.624,153.438 56.688,152.375 61.575,152.375 62.487,153.289 62.487,158.798 "/>
+            <rect x="58.401" width="1.457" fill="#868686" y="155.483"  height="20.812"/>
+        </g>
+        <g >
+            <polygon fill="#1D1D1B"  points="68.795,159.906 64.186,159.906 63.038,158.714 63.038,153.438 64.102,152.375 68.989,152.375 69.901,153.289 69.901,158.798 "/>
+            <rect x="65.815" width="1.457" fill="#868686" y="155.483"  height="20.812"/>
+        </g>
+    </g>
+    <g transform="matrix(0 -1.2242 1 0 39.3999 151.8354)" >
+        <g >
+            <text font-size="6" fill="#1D1D1B"  font-family="Droid Sans">VCC</text>
+        </g>
+    </g>
+    <g transform="matrix(0 -1.2242 1 0 46.6001 151.8354)" >
+        <g >
+            <text font-size="6" fill="#1D1D1B"  font-family="Droid Sans">GND</text>
+        </g>
+    </g>
+    <g transform="matrix(0 -1.2242 1 0 53.7993 151.8354)" >
+        <g >
+            <text font-size="6" fill="#1D1D1B"  font-family="Droid Sans">DIN</text>
+        </g>
+    </g>
+    <g transform="matrix(0 -1.2242 1 0 60.9995 151.8354)" >
+        <g >
+            <text font-size="6" fill="#1D1D1B"  font-family="Droid Sans">CS</text>
+        </g>
+    </g>
+    <g transform="matrix(0 -1.2242 1 0 68.1997 151.8354)" >
+        <g >
+            <text font-size="6" fill="#1D1D1B"  font-family="Droid Sans">CLK</text>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 29.1582 124.0981)" >
+        <g >
+            <text font-size="6" fill="#FFFFFF"  font-family="Droid Sans">MAX7219ENG</text>
+        </g>
+    </g>
+    <g transform="matrix(1 0 0 1 40.4082 131.2993)" >
+        <g >
+            <text font-size="6" fill="#FFFFFF"  font-family="Droid Sans">+1608</text>
+        </g>
+    </g>
+</svg>

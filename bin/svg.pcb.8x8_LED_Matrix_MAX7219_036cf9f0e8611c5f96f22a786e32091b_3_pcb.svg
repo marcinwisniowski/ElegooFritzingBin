@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1.38938in" gorn="0" version="1.1" id="Ebene_1" y="0px" viewBox="0 0 100.035 180.333" enable-background="new 0 0 100.035 180.333"  xml:space="preserve" height="2.50462in">
+    <desc >
+        <referenceFile >8x8 LED Modul mit MAX7219_pcb.svg</referenceFile>
+    </desc>
+    <title >layer 25</title>
+    <g >
+        <title >element:A1</title>
+        <g >
+            <title >package:FIDUCIA-MOUNT</title>
+        </g>
+    </g>
+    <g >
+        <title >element:A2</title>
+        <g >
+            <title >package:FIDUCIA-MOUNT</title>
+        </g>
+    </g>
+    <g >
+        <title >element:A3</title>
+        <g >
+            <title >package:FIDUCIA-MOUNT</title>
+        </g>
+    </g>
+    <g >
+        <title >element:C1</title>
+        <g >
+            <title >package:0603-CAP</title>
+        </g>
+    </g>
+    <g >
+        <title >element:C2</title>
+        <g >
+            <title >package:EIA3216</title>
+        </g>
+    </g>
+    <g >
+        <title >element:C3</title>
+        <g >
+            <title >package:EIA3216</title>
+        </g>
+    </g>
+    <g >
+        <title >element:C4</title>
+        <g >
+            <title >package:0603-CAP</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC1</title>
+        <g >
+            <title >package:SC70-5</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC2</title>
+        <g >
+            <title >package:SOT223</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC3</title>
+        <g >
+            <title >package:SC70-5</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC4</title>
+        <g >
+            <title >package:SC70-5</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC5</title>
+        <g >
+            <title >package:SC70-5</title>
+        </g>
+    </g>
+    <g >
+        <title >element:IC6</title>
+        <g >
+            <title >package:MSOP08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J1</title>
+        <g >
+            <title >package:1X08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J2</title>
+        <g >
+            <title >package:1X08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J3</title>
+        <g >
+            <title >package:1X06</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J6</title>
+        <g >
+            <title >package:1X08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:J7</title>
+        <g >
+            <title >package:1X08</title>
+        </g>
+    </g>
+    <g >
+        <title >element:JP1</title>
+        <g >
+            <title >package:1X10</title>
+        </g>
+    </g>
+    <g >
+        <title >element:JP2</title>
+        <g >
+            <title >package:1X10</title>
+        </g>
+    </g>
+    <g >
+        <title >element:POWER1</title>
+        <g >
+            <title >package:1X06</title>
+        </g>
+    </g>
+    <g >
+        <title >element:RESET1</title>
+        <g >
+            <title >package:TS42</title>
+        </g>
+    </g>
+    <g >
+        <title >element:RN1</title>
+        <g >
+            <title >package:CAY16</title>
+        </g>
+    </g>
+    <g >
+        <title >element:X1</title>
+        <g >
+            <title >package:SDCARD-15TW-8821</title>
+        </g>
+    </g>
+    <g >
+        <title >element:XB1</title>
+        <g >
+            <title >package:XBEE-PRO</title>
+        </g>
+    </g>
+    <g gorn="0.27" id="copper1" >
+        <g gorn="0.27.0" id="copper0" >
+            <circle gorn="0.27.0.0" id="connector0pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="35.456" cy="167.399" r="2.052" />
+            <circle gorn="0.27.0.1" id="connector1pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="42.655" cy="167.399" r="2.052" />
+            <circle gorn="0.27.0.2" id="connector2pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="49.855" cy="167.399" r="2.053" />
+            <circle gorn="0.27.0.3" id="connector3pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="57.055" cy="167.399" r="2.052" />
+            <circle gorn="0.27.0.4" id="connector4pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="64.254" cy="167.399" r="2.052" />
+        </g>
+        <g gorn="0.27.1" id="copper1_1_" >
+            <g gorn="0.27.1.0" id="copper0_1_" >
+                <circle gorn="0.27.1.0.0" id="connector5pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="35.455" cy="10.503" r="2.052" />
+                <circle gorn="0.27.1.0.1" id="connector6pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="42.653" cy="10.503" r="2.052" />
+                <circle gorn="0.27.1.0.2" id="connector7pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="49.854" cy="10.502" r="2.053" />
+                <circle gorn="0.27.1.0.3" id="connector8pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="57.053" cy="10.503" r="2.052" />
+                <circle gorn="0.27.1.0.4" id="connector9pin" fill="none" stroke-width="1.224" stroke="#F7BD13" cx="64.252" cy="10.503" r="2.052" />
+            </g>
+        </g>
+    </g>
+</svg>
