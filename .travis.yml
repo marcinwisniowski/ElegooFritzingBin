@@ -3,6 +3,11 @@ env:
   global:
     - BUILD_NAME=Elegoo
     - RELEASE_NAME=${BUILD_NAME}-${TRAVIS_TAG}
+addon:
+  apt:
+    update: true
+    packages:
+      - libxml2-utils
 before_script:
   - xmllint bin/${BUILD_NAME}.fzb
 script:
