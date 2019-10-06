@@ -122,7 +122,7 @@
         <instance moduleIdRef="rtc_ds3231_breakout" modelIndex="40" path="rtc_ds3231_breakout.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3" modelIndex="41" path="RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3.fzp">
+        <instance moduleIdRef="RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3" modelIndex="41" path="part.RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3.fzp">
             <views/>
         </instance>
         <!-- Sensors -->

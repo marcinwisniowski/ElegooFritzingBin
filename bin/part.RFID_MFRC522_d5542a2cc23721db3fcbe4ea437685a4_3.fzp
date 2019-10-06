@@ -1,50 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<module moduleId="MFRC RFID522_d5542a2cc23721db3fcbe4ea437685a4_3" referenceFile="generic_sip_8_300mil.fzp">
+<module moduleId="RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3" referenceFile="generic_sip_8_300mil.fzp">
  <version>4</version>
- <author>Sajjad Afzal</author>
- <title>RFID RC522 SIP - 8 pins</title>
- <label>U</label>
- <date>Sat Mar 24 2018</date>
+ <author>Marcin Wisniowski</author>
+ <title>RFID RC522 Module</title>
+ <label>RFID</label>
+ <date>2019-10-06</date>
  <tags>
-  <tag>SIP</tag>
-  <tag>fritzing core</tag>
+  <tag>rfid</tag>
+  <tag>rc522</tag>
+  <tag>module</tag>
+  <tag>8pin</tag>
+  <tag>spi</tag>
  </tags>
  <properties>
-  <property name="family">Generic IC</property>
-  <property name="package">SIP (Single Inline) [THT]</property>
+  <property name="family">RFID Modules</property>
+  <property name="package">THT</property>
   <property name="pins">8</property>
   <property name="pin spacing">300mil</property>
-  <property name="chip label">RFID RC522</property>
-  <property name="hole size"></property>
+  <property name="chip label">MFRC522</property>
   <property name="editable pin labels">false</property>
-  <property name="layer"></property>
   <property name="part number"></property>
-  <property name="variant">variant 4</property>
+  <property name="VCC">3v3</property>
  </properties>
  <taxonomy>part.sip.8.pins</taxonomy>
- <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
-&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
-p, li { white-space: pre-wrap; }
-&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">A SIP stand-in part for RFID RC522  .  With 8 pins on a 300 mil single inline package (SIP) footprint.&lt;/p>&lt;/body>&lt;/html></description>
+ <description>The RC522 is a 13.56MHz RFID module that is based on the MFRC522 controller from NXP semiconductors. The module can supports I2C, SPI and UART and normally is shipped with a RFID card and key fob. It is commonly used in attendance systems and other person/object identification applications.</description>
  <views>
   <iconView>
-   <layers image="icon/MFRC RFID522_d5542a2cc23721db3fcbe4ea437685a4_3_icon.svg">
+   <layers image="icon/RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3_icon.svg">
     <layer layerId="icon"/>
    </layers>
   </iconView>
   <breadboardView>
-   <layers image="breadboard/MFRC RFID522_d5542a2cc23721db3fcbe4ea437685a4_3_breadboard.svg">
+   <layers image="breadboard/RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3_breadboard.svg">
     <layer layerId="breadboard"/>
    </layers>
   </breadboardView>
   <schematicView>
-   <layers image="schematic/MFRC RFID522_d5542a2cc23721db3fcbe4ea437685a4_3_schematic.svg">
+   <layers image="schematic/RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
   <pcbView>
-   <layers image="pcb/MFRC RFID522_d5542a2cc23721db3fcbe4ea437685a4_3_pcb.svg">
+   <layers image="pcb/RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3_pcb.svg">
     <layer layerId="silkscreen"/>
     <layer layerId="copper0"/>
     <layer layerId="copper1"/>
@@ -53,7 +50,7 @@ p, li { white-space: pre-wrap; }
  </views>
  <connectors>
   <connector name="IRQ" id="connector0" type="male">
-   <description>pin 1</description>
+   <description>Interrupt</description>
    <views>
     <breadboardView>
      <p terminalId="connector0terminal" layer="breadboard" svgId="connector0pin"/>
