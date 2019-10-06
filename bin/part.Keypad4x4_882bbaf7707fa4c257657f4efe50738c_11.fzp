@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.1.1255" moduleId="Keypad4x4_882bbaf7707fa4c257657f4efe50738c_11" referenceFile="Rotary_Encoder.fzp">
+ <version>4</version>
+ <author>Stefan Langer</author>
+ <title>Membran Keypad 4x4</title>
+ <label>Keypad4x4</label>
+ <date>Sa Apr 4 2015</date>
+ <tags>
+  <tag>Keypad</tag>
+  <tag>4x4</tag>
+  <tag>Matrix</tag>
+  <tag>input</tag>
+ </tags>
+ <properties>
+  <property name="variant">membran_4x4</property>
+  <property name="family">Keypad</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Membrane Keypad 4x4 Matrix&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/Keypad4x4_d4dcc55795982ebbb3645e6a9bd659aa_2_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/Keypad4x4_d4dcc55795982ebbb3645e6a9bd659aa_2_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView fliphorizontal="false" flipvertical="false">
+   <layers image="schematic/Keypad4x4_d4dcc55795982ebbb3645e6a9bd659aa_2_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/Keypad4x4_d4dcc55795982ebbb3645e6a9bd659aa_2_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" type="male" name="Pin1">
+   <description>Pin1</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper0"/>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" type="male" name="Pin2">
+   <description>Pin 2</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper0"/>
+     <p svgId="connector1pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" type="male" name="Pin3">
+   <description>Pin 3</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pad" layer="copper0"/>
+     <p svgId="connector2pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector4" type="male" name="Pin4">
+   <description>Pin 4</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pin" layer="copper0"/>
+     <p svgId="connector4pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector5" type="male" name="Pin5">
+   <description>Pin 5</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pin" layer="copper0"/>
+     <p svgId="connector5pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector6" type="male" name="Pin6">
+   <description>Pin 6</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pin" layer="copper0"/>
+     <p svgId="connector6pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector7" type="male" name="Pin7">
+   <description>Pin 7</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pin" layer="copper0"/>
+     <p svgId="connector7pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector8" type="male" name="Pin8">
+   <description>Pin 8</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8pin" layer="copper0"/>
+     <p svgId="connector8pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

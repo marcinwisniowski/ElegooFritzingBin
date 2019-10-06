@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0"  id="svg2" viewBox="0 0 134.64564 88.582662" width="38mm" height="25mm" version="1.1">
+    <desc >
+        <referenceFile >keypad_4_x_4_schaltplan.svg</referenceFile>
+    </desc>
+    <defs  id="defs4"/>
+    <metadata  id="metadata7">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="translate(0,-963.77952)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g gorn="0.3.0.0.0.0.0.0"  id="layer1">
+                                <rect gorn="0.3.0.0.0.0.0.0.0" x="0" y="0"  id="rect4167" fill="#decd87" stroke="none" width="0" height="0"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.1" x="-169.30315" y="793.32507"  id="rect5261" fill="none" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.79762548" stroke="#000000" fill-opacity="1" width="99.202362" height="99.202354" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.2"  id="path5263" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 75.502142,1046.8755 0,-75.74776" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.3"  id="path5265" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 93.592721,1046.8755 0,-76.00719" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.4"  id="path5267" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 110.71883,1046.8755 0,-76.00719" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.5"  id="path5269" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 129.05052,1046.8755 0,-76.00719" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.6"  id="path5329" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 128.91686,1027.5619 -70.963118,0.5188" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.7"  id="path5331" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 129.3991,1008.6161 -88.966651,0" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.8"  id="path5333" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 128.91686,990.18916 -106.568315,0" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.9"  id="path5335" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 128.91686,970.98395 -124.6522108,0" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.10"  id="path5369" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 58.226092,1027.6984 -0.40657,19.3463" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.11"  id="path5371" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 40.231133,1007.9455 -0.203285,39.0992" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.12"  id="path5373" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 22.236174,989.61557 0,57.42913" stroke-opacity="1"/>
+                                <path gorn="0.3.0.0.0.0.0.0.13"  id="path5375" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.23033261" stroke="#000000" d="m 4.4444993,970.47253 0,76.57217" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.14"  id="path5377" fill="#000000" cx="75.502144" cy="970.98401" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.7657804" ry="1.8999003" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.15"  id="circle5379" fill="#000000" cx="93.59272" cy="970.98401" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.7657804" ry="1.8999003" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.16"  id="circle5381" fill="#000000" cx="110.71883" cy="970.98401" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.7657804" ry="1.8999003" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.17"  id="circle5383" fill="#000000" cx="129.05052" cy="970.98401" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.7657804" ry="1.8999003" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.18"  id="circle5385" fill="#000000" cx="129.05052" cy="990.18921" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.7657804" ry="1.8999003" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.19"  id="circle5387" fill="#000000" cx="129.05052" cy="1008.6161" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.7657804" ry="1.8999003" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.20"  id="circle5389" fill="#000000" cx="129.05052" cy="1027.8213" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.7657804" ry="1.8999003" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.21"  id="circle5391" fill="#000000" cx="110.71883" cy="1027.8213" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.7657804" ry="1.8999003" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.22"  id="circle5393" fill="#000000" cx="93.59272" cy="1027.8213" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.5246618" ry="1.6404674" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.23"  id="circle5395" fill="#000000" cx="75.502144" cy="1027.8213" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.5246618" ry="1.6404674" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.24"  id="circle5397" fill="#000000" cx="75.502144" cy="1008.6161" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.5246618" ry="1.6404674" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.25"  id="circle5399" fill="#000000" cx="93.59272" cy="1008.6161" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.5246618" ry="1.6404674" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.26"  id="circle5401" fill="#000000" cx="110.71883" cy="1008.6161" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.5246618" ry="1.6404674" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.27"  id="circle5403" fill="#000000" cx="110.71883" cy="990.18921" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.5246618" ry="1.6404674" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.28"  id="circle5405" fill="#000000" cx="93.59272" cy="990.18921" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.5246618" ry="1.6404674" stroke-opacity="1"/>
+                                <ellipse gorn="0.3.0.0.0.0.0.0.29"  id="circle5407" fill="#000000" cx="75.502144" cy="990.18921" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.29774272" stroke="none" fill-opacity="1" rx="1.5246618" ry="1.6404674" stroke-opacity="1"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.30" x="3.9444993" y="1044.673"  id="connector0pin" fill="#000000" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" stroke="none" fill-opacity="1" width="1" height="2" stroke-opacity="1"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.31" x="21.736174" y="1044.673"  id="connector1pin" fill="#000000" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" stroke="none" fill-opacity="1" width="1" height="2" stroke-opacity="1"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.32" x="39.62949" y="1044.673"  id="connector2pin" fill="#000000" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" stroke="none" fill-opacity="1" width="1" height="2" stroke-opacity="1"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.33" x="57.522808" y="1044.673"  id="connector4pin" fill="#000000" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" stroke="none" fill-opacity="1" width="1" height="2" stroke-opacity="1"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.34" x="75.002144" y="1044.673"  id="connector5pin" fill="#000000" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" stroke="none" fill-opacity="1" width="1" height="2" stroke-opacity="1"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.35" x="93.09272" y="1044.673"  id="connector6pin" fill="#000000" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" stroke="none" fill-opacity="1" width="1" height="2" stroke-opacity="1"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.36" x="110.21883" y="1044.673"  id="connector7pin" fill="#000000" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" stroke="none" fill-opacity="1" width="1" height="2" stroke-opacity="1"/>
+                                <rect gorn="0.3.0.0.0.0.0.0.37" x="128.55052" y="1044.673"  id="connector8pin" fill="#000000" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" stroke="none" fill-opacity="1" width="1" height="2" stroke-opacity="1"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

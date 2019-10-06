@@ -137,6 +137,9 @@
         <instance moduleIdRef="RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3" modelIndex="41" path="part.RFID_MFRC522_d5542a2cc23721db3fcbe4ea437685a4_3.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="Keypad4x4_882bbaf7707fa4c257657f4efe50738c_11" modelIndex="42" path="part.Keypad4x4_882bbaf7707fa4c257657f4efe50738c_11.fzp">
+            <views/>
+        </instance>
         <!-- Sensors -->
         <instance moduleIdRef="__spacer__" modelIndex="3" path="Sensors">
            <text>Sensors</text>

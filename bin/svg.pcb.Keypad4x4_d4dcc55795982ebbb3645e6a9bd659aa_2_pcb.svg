@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0"  id="svg4890" viewBox="0 0 240.94493 35.433071" width="68mm" height="10mm" version="1.1">
+    <desc >
+        <referenceFile >keypad_4_x_4_pcb.svg</referenceFile>
+    </desc>
+    <defs  id="defs4892"/>
+    <metadata  id="metadata4895">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="translate(0,-1016.9291)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.3.0.0.0.0"  id="copper0" style="display:inline">
+                        <g gorn="0.3.0.0.0.0.0"  id="g4319">
+                            <rect gorn="0.3.0.0.0.0.0.0" x="6.0865269" y="1022.1235"  id="rect4300" fill="#d4aa00" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="2.42304802" stroke="#d4aa00" fill-opacity="1" width="24.826952" height="25.04426" stroke-opacity="1"/>
+                            <ellipse gorn="0.3.0.0.0.0.0.1"  id="connector1pin-9" fill="#ffffff" cx="18.709099" cy="1034.6456" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04500103" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+                        </g>
+                        <ellipse gorn="0.3.0.0.0.0.1"  id="connector2pin-0" fill="#ffffff" cx="47.998753" cy="1034.6456" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+                        <ellipse gorn="0.3.0.0.0.0.2"  id="connector3pin-6" fill="#ffffff" cx="77.0383" cy="1034.6456" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+                        <ellipse gorn="0.3.0.0.0.0.3"  id="connector4pin-7" fill="#ffffff" cx="106.07786" cy="1034.6456" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+                        <ellipse gorn="0.3.0.0.0.0.4"  id="connector5pin-3" fill="#ffffff" cx="135.1174" cy="1034.6456" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+                        <ellipse gorn="0.3.0.0.0.0.5"  id="connector6pin-8" fill="#ffffff" cx="164.15695" cy="1034.6456" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+                        <ellipse gorn="0.3.0.0.0.0.6"  id="connector7pin-5" fill="#ffffff" cx="193.1965" cy="1034.6456" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+                        <ellipse gorn="0.3.0.0.0.0.7"  id="connector8pin-6" fill="#ffffff" cx="222.23605" cy="1034.6456" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g gorn="0.4"  id="copper1" style="display:inline">
+        <ellipse gorn="0.4.0"  id="connector1pin-9-9" fill="#ffffff" cx="18.709099" cy="17.71653" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04500103" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+        <ellipse gorn="0.4.1"  id="connector2pin-0-2" fill="#ffffff" cx="47.998753" cy="17.71653" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+        <ellipse gorn="0.4.2"  id="connector3pin-6-3" fill="#ffffff" cx="77.0383" cy="17.71653" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+        <ellipse gorn="0.4.3"  id="connector4pin-7-7" fill="#ffffff" cx="106.07786" cy="17.71653" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+        <ellipse gorn="0.4.4"  id="connector5pin-3-1" fill="#ffffff" cx="135.1174" cy="17.71653" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+        <ellipse gorn="0.4.5"  id="connector6pin-8-1" fill="#ffffff" cx="164.15695" cy="17.71653" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+        <ellipse gorn="0.4.6"  id="connector7pin-5-7" fill="#ffffff" cx="193.1965" cy="17.71653" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+        <ellipse gorn="0.4.7"  id="connector8pin-6-1" fill="#ffffff" cx="222.23605" cy="17.71653" style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="4.04453993" stroke="#d4aa00" fill-opacity="1" rx="11.533702" ry="11.472025" stroke-opacity="1"/>
+    </g>
+    <rect gorn="0.5" x="0.84746248" y="1.0915358"  id="rect4287" fill="none" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="3.00000072" stroke="#ffffff" fill-opacity="1" width="239.25" height="33.25" stroke-opacity="1"/>
+</svg>
