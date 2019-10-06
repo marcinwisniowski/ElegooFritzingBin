@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15" fritzingVersion="0.7.2b" referenceFile="sparkfun-sensors-mlx90614-_.fzp">
+ <!-- generated from Sparkfun Eagle Library 'SparkFun-Sensors' MLX90614 _ -->
+ <version>4</version>
+ <date>mar. oct. 13 2015</date>
+ <author>minibots.wordpress.com</author>
+ <description>Pyroelectric Infrared PIR Motion Sensor Detector Module</description>
+ <title>HC-SR501 Body Sensor Module</title>
+ <label>HC-SR501</label>
+ <tags>
+  <tag>PIR</tag>
+  <tag>sensor</tag>
+  <tag>hc-sr501</tag>
+  <tag>motion</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">PIR Sensor</property>
+  <property name="Manufacturer">D-SUN</property>
+ </properties>
+ <views>
+  <breadboardView>
+   <layers image="breadboard/PIR_D-SUN_HC-SR501_3cba48ca1f21583627cc3750079ed9d0_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/PIR_D-SUN_HC-SR501_3cba48ca1f21583627cc3750079ed9d0_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/PIR_D-SUN_HC-SR501_3cba48ca1f21583627cc3750079ed9d0_3_pcb.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+   </layers>
+  </pcbView>
+  <iconView>
+   <layers image="icon/PIR_D-SUN_HC-SR501_3cba48ca1f21583627cc3750079ed9d0_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector1" name="OUT">
+   <description>Output</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper0"/>
+     <p svgId="connector1pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector0" name="VCC">
+   <description>Vcc</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper0"/>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pad" layer="copper0"/>
+     <p svgId="connector2pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <buses/>
+ <url>https://minibots.wordpress.com</url>
+</module>

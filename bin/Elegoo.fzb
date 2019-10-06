@@ -151,5 +151,8 @@
         <instance moduleIdRef="Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11" modelIndex="52" path="part.Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15" modelIndex="52" path="part.PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>

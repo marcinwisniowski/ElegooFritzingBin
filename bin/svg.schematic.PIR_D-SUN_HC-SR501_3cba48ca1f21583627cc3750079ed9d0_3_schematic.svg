@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="0.41in" x="0in" width="1.20972in" viewBox="0 0 30.7269 10.414" version="1.2" y="0in"  baseProfile="tiny">
+    <desc >
+        <referenceFile >sparkfun-sensors_mlx90614_schematic.svg</referenceFile>
+    </desc>
+    <g gorn="0.1"  id="schematic">
+        <rect height="10.16" x="5.20347" fill="#ffffff" width="20.32" stroke="none" y="0.127"  class="interior rect" stroke-width="0"/>
+        <text x="15.3635" gorn="0.1.1" fill="#000000" font-size="1.49931" stroke="none" font-family="'Droid Sans'" y="4.40735"  class="text" stroke-width="0" id="label" text-anchor="middle">MLX90614</text>
+        <line stroke-linecap="round" stroke="#000000" y2="10.287" y1="0.127"  class="other" x1="5.20347" stroke-width="0.3175" x2="5.20347"/>
+        <line stroke-linecap="round" stroke="#000000" y2="10.287" y1="10.287"  class="other" x1="5.20347" stroke-width="0.3175" x2="25.5235"/>
+        <line stroke-linecap="round" stroke="#000000" y2="0.127" y1="10.287"  class="other" x1="25.5235" stroke-width="0.3175" x2="25.5235"/>
+        <line stroke-linecap="round" stroke="#000000" y2="0.127" y1="0.127"  class="other" x1="25.5235" stroke-width="0.3175" x2="5.20347"/>
+        <line stroke-linecap="round" gorn="0.1.6" stroke="#787878" y2="2.667" connectorname="VDD" y1="2.667"  class="pin" x1="0.123472" stroke-width="0.246944" id="connector2pin" x2="5.20347"/>
+        <rect height="0.0001" x="0.123472" gorn="0.1.7" fill="none" width="0.0001" stroke="none" y="2.667"  class="terminal" stroke-width="0" id="connector2terminal"/>
+        <text x="2.66347" fill="#8c8c8c" font-size="0.881944" stroke="none" font-family="'Droid Sans'" y="2.29658"  class="text" stroke-width="0" text-anchor="middle">3</text>
+        <text x="5.9443" fill="#787878" font-size="1.23472" stroke="none" font-family="'Droid Sans'" y="2.91394"  class="text" stroke-width="0" text-anchor="start">VDD</text>
+        <line stroke-linecap="round" gorn="0.1.10" stroke="#787878" y2="7.747" connectorname="VSS" y1="7.747"  class="pin" x1="0.123472" stroke-width="0.246944" id="connector3pin" x2="5.20347"/>
+        <rect height="0.0001" x="0.123472" gorn="0.1.11" fill="none" width="0.0001" stroke="none" y="7.747"  class="terminal" stroke-width="0" id="connector3terminal"/>
+        <text x="2.66347" fill="#8c8c8c" font-size="0.881944" stroke="none" font-family="'Droid Sans'" y="7.37658"  class="text" stroke-width="0" text-anchor="middle">4</text>
+        <text x="5.9443" fill="#787878" font-size="1.23472" stroke="none" font-family="'Droid Sans'" y="7.99394"  class="text" stroke-width="0" text-anchor="start">VSS</text>
+        <line stroke-linecap="round" gorn="0.1.14" stroke="#787878" y2="2.667" connectorname="SCL/VZ" y1="2.667"  class="pin" x1="30.6035" stroke-width="0.246944" id="connector0pin" x2="25.5235"/>
+        <rect height="0.0001" x="30.6035" gorn="0.1.15" fill="none" width="0.0001" stroke="none" y="2.667"  class="terminal" stroke-width="0" id="connector0terminal"/>
+        <text x="28.0635" fill="#8c8c8c" font-size="0.881944" stroke="none" font-family="'Droid Sans'" y="2.29658"  class="text" stroke-width="0" text-anchor="middle">1</text>
+        <text x="24.7826" fill="#787878" font-size="1.23472" stroke="none" font-family="'Droid Sans'" y="2.91394"  class="text" stroke-width="0" text-anchor="end">SCL/VZ</text>
+        <line stroke-linecap="round" gorn="0.1.18" stroke="#787878" y2="7.747" connectorname="PWM/SDA" y1="7.747"  class="pin" x1="30.6035" stroke-width="0.246944" id="connector1pin" x2="25.5235"/>
+        <rect height="0.0001" x="30.6035" gorn="0.1.19" fill="none" width="0.0001" stroke="none" y="7.747"  class="terminal" stroke-width="0" id="connector1terminal"/>
+        <text x="28.0635" fill="#8c8c8c" font-size="0.881944" stroke="none" font-family="'Droid Sans'" y="7.37658"  class="text" stroke-width="0" text-anchor="middle">2</text>
+        <text x="24.7826" fill="#787878" font-size="1.23472" stroke="none" font-family="'Droid Sans'" y="7.99394"  class="text" stroke-width="0" text-anchor="end">PWM/SDA</text>
+    </g>
+</svg>
