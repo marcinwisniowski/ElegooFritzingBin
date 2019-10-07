@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-037_b93a9544743459ccccb024a17cbe323c_1" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>1</version>
+ <author>Marcin Wiśniowski</author>
+ <title>KY-037 Sound Sensor Module</title>
+ <label>KY-037</label>
+ <url></url>
+ <date>Mon Oct 7 2019</date>
+ <tags>
+  <tag>Arduino</tag>
+  <tag>KY-037</tag>
+  <tag>Microphone</tag>
+  <tag>Sound</tag>
+  <tag>KEYES</tag>
+  <tag>LM393</tag>
+  <tag>SG</tag>
+ </tags>
+ <properties>
+  <property name="family">Sound Sensor</property>
+  <property name="variant">Normal Mic</property>
+  <property name="hole size"></property>
+  <property name="board dimensions">15mm x 36mm [0.6in x 1.4in]</property>
+  <property name="chip label">KY-037</property>
+  <property name="editable pin labels">false</property>
+  <property name="pins">4</property>
+  <property name="layer"></property>
+  <property name="package">Breakout board</property>
+  <property name="part number"></property>
+  <property name="operating voltage">3.3V to 5.5V</property>
+  <property name="pin spacing">300mil</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>Microphone Sound Sensor. It reacts on specific sound volume (Digital Output).</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-037_b93a9544743459ccccb024a17cbe323c_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-037_b93a9544743459ccccb024a17cbe323c_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-037_b93a9544743459ccccb024a17cbe323c_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-037_b93a9544743459ccccb024a17cbe323c_1_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" name="A0" id="connector0">
+   <description>Analog Output</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="G" id="connector1">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="+" id="connector2">
+   <description>Vin</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="D0" id="connector3">
+   <description>Digital Output</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" terminalId="connector3terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" terminalId="connector3terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>
