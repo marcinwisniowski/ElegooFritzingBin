@@ -149,7 +149,7 @@
         <instance moduleIdRef="KY-019_ae98ead2539134cc4752193f7521911c_8" modelIndex="45" path="part.KY-019_ae98ead2539134cc4752193f7521911c_8.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="KY-023_02b4fc53691639376d37c1cdf2405ea6_13" modelIndex="45" path="part.KY-023_02b4fc53691639376d37c1cdf2405ea6_13.fzp">
+        <instance moduleIdRef="KY-023_02b4fc53691639376d37c1cdf2405ea6_13" modelIndex="46" path="part.KY-023_02b4fc53691639376d37c1cdf2405ea6_13.fzp">
             <views/>
         </instance>
         <!-- Sensors -->
@@ -166,10 +166,13 @@
         <instance moduleIdRef="Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11" modelIndex="52" path="part.Water_Level_Sensor_1596f9e02c5d10f675af8bee0102edcc_11.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15" modelIndex="52" path="part.PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15.fzp">
+        <instance moduleIdRef="PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15" modelIndex="53" path="part.PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="KY-015_358d19e7bc61514283912af2f61f3436_6" modelIndex="52" path="part.KY-015_358d19e7bc61514283912af2f61f3436_6.fzp">
+        <instance moduleIdRef="KY-015_358d19e7bc61514283912af2f61f3436_6" modelIndex="54" path="part.KY-015_358d19e7bc61514283912af2f61f3436_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="KY-022_f33005d4fac4b3e8035a3ea7a0e4538a_5" modelIndex="55" path="part.KY-022_f33005d4fac4b3e8035a3ea7a0e4538a_5.fzp">
             <views/>
         </instance>
     </instances>

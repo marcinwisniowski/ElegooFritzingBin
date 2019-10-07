@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="generic_ic_dip_4_300mil.fzp" moduleId="KY-022_f33005d4fac4b3e8035a3ea7a0e4538a_5">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-022 Infrared Receiver Module
+</title>
+ <label>Part</label>
+ <date>Thu Oct 27 2016</date>
+ <tags>
+  <tag>Infrared Receiver</tag>
+  <tag>KY-022</tag>
+  <tag>IR</tag>
+  <tag>1838</tag>
+  <tag>KEYES</tag>
+  <tag>arduinomodules.info</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">KY-022</property>
+  <property name="chip label">KY-022</property>
+  <property name="hole size"></property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+  <property name="pins">3</property>
+  <property name="pin spacing">300mil</property>
+  <property name="editable pin labels">false</property>
+  <property name="Operating Temperature">-25°C to 80°C [-13°F to 176°F]</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="IR receiver">1838</property>
+  <property name="Low Level Voltage">0.4V</property>
+  <property name="Reception Angle">±45º</property>
+  <property name="Operating Current">0.4 ~ 1.5 mA</property>
+  <property name="package">Breakout board</property>
+  <property name="Ambient Light Filter">up to 500LUX</property>
+  <property name="Operating Voltage">2.7V to 5.5V</property>
+  <property name="Reception Distance">18m</property>
+  <property name="High Level Voltage">4.5V</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>Arduino IR receiver module KY-022, based on 1838 IR Receiver/Decoder. It reacts to 38kHz infrared light.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-022_f33005d4fac4b3e8035a3ea7a0e4538a_5_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-022_f33005d4fac4b3e8035a3ea7a0e4538a_5_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-022_f33005d4fac4b3e8035a3ea7a0e4538a_5_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-022_f33005d4fac4b3e8035a3ea7a0e4538a_5_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" type="male" name="S">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard" terminalId="connector0terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" type="male" name="Vin">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard" terminalId="connector1terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" type="male" name="-">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard" terminalId="connector2terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-022-infrared-receiver-module</url>
+</module>
