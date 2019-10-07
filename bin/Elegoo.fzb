@@ -169,5 +169,8 @@
         <instance moduleIdRef="PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15" modelIndex="52" path="part.PIR_D-SUN_HC-SR501_a40c8023c5d0e7a32de5fb810474cde6_15.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="KY-015_358d19e7bc61514283912af2f61f3436_6" modelIndex="52" path="part.KY-015_358d19e7bc61514283912af2f61f3436_6.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>

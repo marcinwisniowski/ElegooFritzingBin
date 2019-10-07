@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="generic_ic_dip_4_300mil.fzp" moduleId="KY-015_358d19e7bc61514283912af2f61f3436_6">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-015 Temperature &amp; Humidity Sensor Module</title>
+ <label>Part</label>
+ <date>Fri Nov 4 2016</date>
+ <tags>
+  <tag>Temperature</tag>
+  <tag>KEYES</tag>
+  <tag>arduinomodules.info</tag>
+  <tag>Humidity</tag>
+  <tag>KY-015</tag>
+ </tags>
+ <properties>
+  <property name="family">KY-015</property>
+  <property name="variant">variant 2</property>
+  <property name="pin spacing">300mil</property>
+  <property name="Humidity measurement resolution">1% RH</property>
+  <property name="dimensions">18.5mm x 16.5mm [0.728in x 0.650in]</property>
+  <property name="hole size"></property>
+  <property name="Signal transmission range">20m</property>
+  <property name="Temperature measurement resolution">1ºC</property>
+  <property name="Operating voltage">3.3V to 5.5V</property>
+  <property name="package">Breakout board</property>
+  <property name="part number"></property>
+  <property name="Temperature measurement accuracy">±2ºC</property>
+  <property name="editable pin labels">false</property>
+  <property name="Temperature measurement range">0ºC to 50ºC [32ºF to 122ºF]</property>
+  <property name="layer"></property>
+  <property name="Humidity measurement range">20% to 90% RH</property>
+  <property name="Humidity measuring accuracy">±5% RH</property>
+  <property name="chip label">KY-015</property>
+  <property name="pins">3</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>DH-11 temperature and humidity sensor in KEYES KY-015 module, provides a low-latency serial interface to measure humidity and temperature.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-015_358d19e7bc61514283912af2f61f3436_6_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-015_358d19e7bc61514283912af2f61f3436_6_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-015_358d19e7bc61514283912af2f61f3436_6_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-015_358d19e7bc61514283912af2f61f3436_6_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="S" type="male">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="Vin" type="male">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="-" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-015-temperature-humidity-sensor-module</url>
+</module>
