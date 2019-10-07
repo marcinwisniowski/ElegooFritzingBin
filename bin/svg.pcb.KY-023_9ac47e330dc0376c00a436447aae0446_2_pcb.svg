@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16594" viewBox="0 0 92.125519 120.47244" version="1.1" width="25.999868mm" gorn="0" height="34mm" >
+    <desc >
+        <referenceFile >keyes_ky-032_double_axis_XY_joystick_module_breakout_5_300mil_pcb.svg</referenceFile>
+    </desc>
+    <defs id="defs16596" />
+    <metadata id="metadata16599" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="matrix(0.9626864,0,0,1,-217.74759,-458.58091)">
+        <g >
+            <g >
+                <g >
+                    <g id="silkscreen" gorn="0.3.0.0.0.0" >
+                        <path id="path20585" stroke-width="1.0185" d="M 226.69954,579.05335 V 458.58091" fill="none" gorn="0.3.0.0.0.0.0" stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;"  stroke="#000000"/>
+                        <path id="path20585-5" stroke-width="1.01855874" d="M 321.37447,579.05335 V 458.58091" fill="none" gorn="0.3.0.0.0.0.1" stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke="#000000"/>
+                        <path id="path20602" stroke-width="1.01854" d="m 226.18746,459.09207 h 95.66929" fill="none" gorn="0.3.0.0.0.0.2" stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;"  stroke="#000000"/>
+                        <path id="path20602-6" stroke-width="1.01854" d="m 226.18746,578.51791 h 95.66929" fill="none" gorn="0.3.0.0.0.0.3" stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;"  stroke="#000000"/>
+                        <g id="text21167" font-size="5.3125" xml:space="preserve" stroke-width="1" fill="#000000" gorn="0.3.0.0.0.0.4" stroke-opacity="1" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" fill-opacity="1"  stroke="none" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                            <text id="tspan21169" stroke-width="1" x="262.50119" gorn="0.3.0.0.0.0.4.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;" y="495.08752" >KY-032</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="keepout" gorn="0.4" />
+    <g id="soldermask" gorn="0.5" />
+    <g id="outline" gorn="0.6" />
+    <g  transform="translate(11.397475,3.6096136)">
+        <g >
+            <g >
+                <g >
+                    <g id="copper0" gorn="0.7.0.0.0.0" >
+                        <g id="copper1" gorn="0.7.0.0.0.0.0" >
+                            <path id="connector0pin" stroke-width="1.29999995" d="m 19.347177,107.36432 a 2.3883933,2.3883935 0 0 1 -2.38839,2.38839 2.3883933,2.3883935 0 0 1 -2.38839,-2.38839 2.3883933,2.3883935 0 0 1 2.38839,-2.3884 2.3883933,2.3883935 0 0 1 2.38839,2.3884 z m -4.97767,-2.67858 h 5.17857 c 0,0 0,0 0,0 v 5.22322 c 0,0 0,0 0,0 h -5.17857 c 0,0 0,0 0,0 v -5.22322 c 0,0 0,0 0,0 z" fill="#2e2e2e" gorn="0.7.0.0.0.0.0.0" stroke-opacity="1" style="display:inline;stroke-miterlimit:4;stroke-dasharray:none;" fill-opacity="0"  stroke="#f7bd13"/>
+                            <circle id="connector1pin" cy="107.29736" stroke-width="1.00000012" fill="#2e2e2e" gorn="0.7.0.0.0.0.0.1" stroke-opacity="1" cx="25.900991" style="display:inline;" fill-opacity="0" r="2.3883932"  stroke="#f7bd13"/>
+                            <circle id="connector2pin" cy="107.29736" stroke-width="1" fill="#2e2e2e" gorn="0.7.0.0.0.0.0.2" stroke-opacity="1" cx="34.843189" style="display:inline;" fill-opacity="0" r="2.3883932"  stroke="#f7bd13"/>
+                            <circle id="connector3pin" cy="107.29736" stroke-width="1" fill="#2e2e2e" gorn="0.7.0.0.0.0.0.3" stroke-opacity="1" cx="43.753521" style="display:inline;" fill-opacity="0" r="2.3883932"  stroke="#f7bd13"/>
+                            <circle id="connector4pin" cy="107.29736" stroke-width="1.00000012" fill="#2e2e2e" gorn="0.7.0.0.0.0.0.4" stroke-opacity="1" style="display:inline;" cx="52.696678" fill-opacity="0" r="2.3883932"  stroke="#f7bd13"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
