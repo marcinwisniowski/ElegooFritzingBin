@@ -140,7 +140,10 @@
         <instance moduleIdRef="Keypad4x4_882bbaf7707fa4c257657f4efe50738c_11" modelIndex="42" path="part.Keypad4x4_882bbaf7707fa4c257657f4efe50738c_11.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="KY-006_66695852301923723e0191b89c50b001_9" modelIndex="42" path="part.KY-006_66695852301923723e0191b89c50b001_9.fzp">
+        <instance moduleIdRef="KY-006_66695852301923723e0191b89c50b001_9" modelIndex="43" path="part.KY-006_66695852301923723e0191b89c50b001_9.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="KY-012_c07624dc1b4216399ee34ca1e2c30642_5" modelIndex="44" path="part.KY-012_c07624dc1b4216399ee34ca1e2c30642_5.fzp">
             <views/>
         </instance>
         <!-- Sensors -->

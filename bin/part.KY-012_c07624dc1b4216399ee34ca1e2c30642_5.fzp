@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="generic_ic_dip_4_300mil.fzp" moduleId="KY-012_c07624dc1b4216399ee34ca1e2c30642_5">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-012 Active Buzzer Module
+</title>
+ <label>Part</label>
+ <date>Mon Sep 26 2016</date>
+ <tags>
+  <tag>arduinomodules.info</tag>
+  <tag>Active Buzzer</tag>
+  <tag>KEYES</tag>
+  <tag>KY-012</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">KY-012</property>
+  <property name="pin spacing">300mil</property>
+  <property name="Working Temperature">-20°C ~ 70°C [-4°F ~ 158°F] </property>
+  <property name="Resonance Frequency">2500Hz ± 300Hz</property>
+  <property name="package">Breakout board</property>
+  <property name="editable pin labels">false</property>
+  <property name="Maximum Current">30mA / 5VDC</property>
+  <property name="Storage Temperature">-30°C ~ 105°C [-22°F ~ 221°F]</property>
+  <property name="Minimum Sound Output">85Db @ 10cm</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+  <property name="Operating Voltage">3.5 ~ 5.5V DC</property>
+  <property name="pins">2</property>
+  <property name="chip label">KY-012</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="hole size"></property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>Active Piezoelectric Buzzer Module Keyes KY-012, it produces single-tone sound when signal is high.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-012_c07624dc1b4216399ee34ca1e2c30642_5_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-012_c07624dc1b4216399ee34ca1e2c30642_5_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-012_c07624dc1b4216399ee34ca1e2c30642_5_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-012_c07624dc1b4216399ee34ca1e2c30642_5_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="S" type="male">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" layer="breadboard" svgId="connector0pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" layer="schematic" svgId="connector0pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector0pin"/>
+     <p layer="copper1" svgId="connector0pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="-" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" layer="breadboard" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" layer="schematic" svgId="connector2pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-012-active-buzzer-module/</url>
+</module>
