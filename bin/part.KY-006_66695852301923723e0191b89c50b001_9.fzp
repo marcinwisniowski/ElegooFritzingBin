@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-006_66695852301923723e0191b89c50b001_9" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-006 Passive Buzzer Module
+</title>
+ <label>Part</label>
+ <date>Fri Jul 15 2016</date>
+ <tags>
+  <tag>arduinomodules.info</tag>
+  <tag>KEYES</tag>
+  <tag>Arduino</tag>
+  <tag>KY-006</tag>
+  <tag>Passive Buzzer</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">KY-006</property>
+  <property name="package">Breakout board</property>
+  <property name="part number"></property>
+  <property name="Tone Range">1.5 ~ 2.5kHz</property>
+  <property name="chip label">KY-006</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="pin spacing">300mil</property>
+  <property name="pins">2</property>
+  <property name="layer"></property>
+  <property name="editable pin labels">false</property>
+  <property name="hole size"></property>
+  <property name="Operating Voltage">1.5 ~ 15V DC</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>Passive Piezoelectric Buzzer Module Keyes KY-006, it can produce a range of sound tones depending on the input frequency.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-006_60d5e97faf87cbc1d49a3e1f066eb1d2_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-006_60d5e97faf87cbc1d49a3e1f066eb1d2_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-006_60d5e97faf87cbc1d49a3e1f066eb1d2_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-006_60d5e97faf87cbc1d49a3e1f066eb1d2_3_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="S" type="male">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="-" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-006-passive-buzzer-module</url>
+</module>

@@ -140,6 +140,9 @@
         <instance moduleIdRef="Keypad4x4_882bbaf7707fa4c257657f4efe50738c_11" modelIndex="42" path="part.Keypad4x4_882bbaf7707fa4c257657f4efe50738c_11.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="KY-006_66695852301923723e0191b89c50b001_9" modelIndex="42" path="part.KY-006_66695852301923723e0191b89c50b001_9.fzp">
+            <views/>
+        </instance>
         <!-- Sensors -->
         <instance moduleIdRef="__spacer__" modelIndex="3" path="Sensors">
            <text>Sensors</text>
