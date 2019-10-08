@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg8662"  height="23.5mm" version="1.1" viewBox="0 0 53.149606 83.267716" gorn="0" width="15mm">
+    <desc >
+        <referenceFile >keyes_ky-025_big_reed_switch_module_breakout_4_300mil_schematic.svg</referenceFile>
+    </desc>
+    <defs id="defs8664" />
+    <metadata id="metadata8667" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(8.4685035,-977.56299)" >
+        <g >
+            <g >
+                <g id="layer2" style="display:inline"  gorn="0.3.0.0.0">
+                    <rect id="rect13191" fill-opacity="0" fill="#ff0000" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#000000" stroke-width="1.125" rx="1.1491016e-015"  x="1.1536129" height="64.023438" gorn="0.3.0.0.0.0" width="33.90538" y="987.18512"/>
+                    <g id="text13198" fill-opacity="1" fill="#000000" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="1" font-size="5.3125"  xml:space="preserve" gorn="0.3.0.0.0.1" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+                        <text id="tspan13200" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"  x="18.003839" gorn="0.3.0.0.0.1.0" y="1002.3176">KY-025</text>
+                    </g>
+                    <g id="text13202" fill-opacity="1" fill="#000000" stroke-opacity="1" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal;" stroke="none" stroke-width="1" font-size="7.5"  xml:space="preserve" gorn="0.3.0.0.0.2" xmlns:xml="http://www.w3.org/XML/1998/namespace"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="text13259" fill-opacity="1" fill="#555555" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="1" font-size="4.375"  xml:space="preserve" gorn="0.4" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+        <text id="tspan13261" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"  x="11.424498" gorn="0.4.0" y="47.667969">GND</text>
+    </g>
+    <g id="text13259-2" fill-opacity="1" fill="#555555" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="1" font-size="4.375"  xml:space="preserve" gorn="0.5" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+        <text id="tspan13261-6" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"  x="11.420225" gorn="0.5.0" y="38.680176">Vin</text>
+    </g>
+    <line id="connector2pin" y2="37.086288" fill="none" style="display:inline;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" stroke-width="0.75035506"  x2="0.40620264" gorn="0.6" y1="37.086288" x1="8.6804943"/>
+    <rect id="connector2terminal" fill="none" stroke="none" stroke-width="0"  x="0.0220005" height="0.00150071" gorn="0.7" y="37.0855" width="0.0180493"/>
+    <line id="connector1pin" y2="46.006897" fill="none" style="display:inline;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" stroke-width="0.74909949"  x2="0.40485987" gorn="0.8" y1="46.006897" x1="8.6514416"/>
+    <rect id="connector1terminal" fill="none" stroke="none" stroke-width="0"  x="0.0213144" height="0.0014982" gorn="0.9" y="46.0061" width="0.0179914"/>
+    <line id="connector0pin" y2="37.085659" fill="none" style="display:inline;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" stroke-width="0.74909949"  x2="44.4641" gorn="0.10" y1="37.085659" x1="52.710682"/>
+    <rect id="connector0terminal" fill="none" stroke="none" stroke-width="0"  x="53.0762" height="0.0014982" gorn="0.11" y="37.0849" width="0.0179914"/>
+    <line id="connector3pin" y2="46.172565" fill="none" style="display:inline;stroke-linecap:round;stroke-linejoin:round" stroke="#555555" stroke-width="0.75035506"  x2="44.465443" gorn="0.12" y1="46.172565" x1="52.739735"/>
+    <rect id="connector3terminal" fill="none" stroke="none" stroke-width="0"  x="53.1059" height="0.00150071" gorn="0.13" y="46.1718" width="0.0180493"/>
+    <g id="text13259-20" fill-opacity="1" fill="#555555" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="1" font-size="4.375"  xml:space="preserve" gorn="0.14" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+        <text id="tspan13261-4" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle;" stroke-width="1"  x="39.163658" gorn="0.14.0" y="38.680176">A0</text>
+    </g>
+    <g id="text13259-26-9" fill-opacity="1" fill="#555555" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="1" font-size="4.375"  xml:space="preserve" gorn="0.15" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+        <text id="tspan13261-3-2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle;" stroke-width="1"  x="38.997032" gorn="0.15.0" y="47.667969">D0</text>
+    </g>
+</svg>
