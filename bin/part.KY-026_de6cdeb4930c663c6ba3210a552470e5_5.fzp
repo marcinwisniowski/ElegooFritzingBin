@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-026_de6cdeb4930c663c6ba3210a552470e5_5" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-026 Flame Sensor Module</title>
+ <label>Part</label>
+ <date>Fri Nov 16 2018</date>
+ <tags>
+  <tag>Flame</tag>
+  <tag>Arduino</tag>
+  <tag>3296W-104</tag>
+  <tag>Fire</tag>
+  <tag>LM393</tag>
+  <tag>KEYES</tag>
+  <tag>KY-026</tag>
+  <tag>Infrared</tag>
+  <tag>arduinomodules.info</tag>
+ </tags>
+ <properties>
+  <property name="family">KY-026</property>
+  <property name="variant">variant 1</property>
+  <property name="board dimensions">15mm x 36mm [0.6in x 1.4in]</property>
+  <property name="part number"></property>
+  <property name="hole size"></property>
+  <property name="pins">4</property>
+  <property name="editable pin labels">false</property>
+  <property name="operating voltage">3.3V to 5.5V</property>
+  <property name="Infrared wavelenght detection">760nm to 1100nm</property>
+  <property name="package">Breakout board</property>
+  <property name="chip label">KY-026</property>
+  <property name="layer"></property>
+  <property name="Detection angle">60°</property>
+  <property name="pin spacing">300mil</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.14286pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:8pt;">KEYES KY-026 Arduino Flame Sensor Module reacts iin the presence of fire.&lt;/span>&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-026_de6cdeb4930c663c6ba3210a552470e5_5_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-026_de6cdeb4930c663c6ba3210a552470e5_5_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-026_de6cdeb4930c663c6ba3210a552470e5_5_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-026_de6cdeb4930c663c6ba3210a552470e5_5_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="A0" type="male">
+   <description>Analog Output</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="G" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="+" type="male">
+   <description>Vin</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" name="D0" type="male">
+   <description>Digital Output</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector3terminal" svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector3terminal" svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url> https://arduinomodules.info/ky-026-flame-sensor-module/</url>
+</module>
