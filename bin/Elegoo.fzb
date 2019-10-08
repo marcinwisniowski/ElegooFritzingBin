@@ -178,5 +178,8 @@
         <instance moduleIdRef="KY-037_b93a9544743459ccccb024a17cbe323c_1" modelIndex="56" path="part.KY-037_b93a9544743459ccccb024a17cbe323c_1.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="KY-038_3b9210ea011e0397584fbb5eceb943c6_1" modelIndex="57" path="part.KY-038_3b9210ea011e0397584fbb5eceb943c6_1.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>
