@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53.733019 128.36784" id="svg16594" width="15.164652mm" height="36.228256mm" version="1.1" gorn="0" >
+    <desc >
+        <referenceFile >keyes_ky-028_digital_temperature_sensor_module_breakout_4_300mil_pcb.svg</referenceFile>
+    </desc>
+    <defs id="defs16596" />
+    <metadata id="metadata16599" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="keepout" gorn="0.3" >
+        <g transform="scale(0.98116583,1.0191957)" >
+            <g >
+                <g id="text21167" fill-opacity="1" stroke-opacity="1" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0.981166" font-size="5.21244" fill="#000000" gorn="0.3.0.0.0"  style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none">
+                    <text id="tspan21169" y="41.490974" stroke-width="0.981166" gorn="0.3.0.0.0.0"  x="16.317034" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;">KY-028</text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="soldermask" gorn="0.4" />
+    <g id="copper0" gorn="0.5" >
+        <g id="copper1" gorn="0.5.0" >
+            <path id="connector0pin" fill-opacity="0" d="m 16.2672,119.28747 a 2.3883933,2.3883935 0 0 1 -2.38839,2.38839 2.3883933,2.3883935 0 0 1 -2.38839,-2.38839 2.3883933,2.3883935 0 0 1 2.38839,-2.3884 2.3883933,2.3883935 0 0 1 2.38839,2.3884 z m -4.97767,-2.67858 5.17857,0 c 0,0 0,0 0,0 l 0,5.22322 c 0,0 0,0 0,0 l -5.17857,0 c 0,0 0,0 0,0 l 0,-5.22322 c 0,0 0,0 0,0 z" stroke-opacity="1" stroke-width="1.29999995" fill="#2e2e2e" gorn="0.5.0.0"  style="display:inline;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#f7bd13"/>
+            <circle id="connector1pin" cx="22.821012" fill-opacity="0" stroke-opacity="1" cy="119.2205" stroke-width="1.00000012" r="2.3883932" fill="#2e2e2e" gorn="0.5.0.1"  style="display:inline;" stroke="#f7bd13"/>
+            <circle id="connector2pin" cx="31.76321" fill-opacity="0" stroke-opacity="1" cy="119.2205" stroke-width="1" r="2.3883932" fill="#2e2e2e" gorn="0.5.0.2"  style="display:inline;" stroke="#f7bd13"/>
+            <circle id="connector3pin" cx="40.673542" fill-opacity="0" stroke-opacity="1" cy="119.2205" stroke-width="1" r="2.3883932" fill="#2e2e2e" gorn="0.5.0.3"  style="display:inline;" stroke="#f7bd13"/>
+        </g>
+    </g>
+    <g id="outline" gorn="0.6" >
+        <path id="path831" d="M 0.52593106,0.46845102 H 53.207086 v -0.128136 0" stroke-opacity="1" stroke-width="0.936902" fill="none" gorn="0.6.0"  style="stroke-linecap:butt;stroke-linejoin:miter;" stroke="#000000"/>
+        <path id="path833" d="M 0.52593106,0.46845102 V 128.02751" stroke-opacity="1" stroke-width="1.05186" fill="none" gorn="0.6.1"  style="stroke-linecap:butt;stroke-linejoin:miter;" stroke="#000000"/>
+        <path id="path833-8" d="M 53.207086,0.34031502 V 127.89938" stroke-opacity="1" stroke-width="1.05186" fill="none" gorn="0.6.2"  style="stroke-linecap:butt;stroke-linejoin:miter;" stroke="#000000"/>
+        <path id="path831-1" d="M 0.52592906,127.89938 H 53.207086 v -0.12814 0" stroke-opacity="1" stroke-width="0.936902" fill="none" gorn="0.6.3"  style="stroke-linecap:butt;stroke-linejoin:miter;" stroke="#000000"/>
+    </g>
+</svg>
