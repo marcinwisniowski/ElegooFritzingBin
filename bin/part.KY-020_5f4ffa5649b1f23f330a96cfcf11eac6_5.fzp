@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-020_5f4ffa5649b1f23f330a96cfcf11eac6_5" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-020 Tilt Switch Module
+</title>
+ <label>Part</label>
+ <date>Fri Nov 24 2017</date>
+ <tags>
+  <tag>arduinomodules.info</tag>
+  <tag>KEYES</tag>
+  <tag>Arduino</tag>
+  <tag>Tilt Switch</tag>
+  <tag>KY-020</tag>
+ </tags>
+ <properties>
+  <property name="family">KY-020</property>
+  <property name="variant">variant 1</property>
+  <property name="layer"></property>
+  <property name="chip label">KY-020</property>
+  <property name="pins">3</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="part number"></property>
+  <property name="editable pin labels">false</property>
+  <property name="hole size"></property>
+  <property name="pin spacing">300mil</property>
+  <property name="package">Breakout board</property>
+  <property name="Operating Voltage">3.3V to 5V</property>
+  <property name="output type">digital</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>KY-020 Arduino tilt switch sensor module. Closes the circuit when it is tilted to the side as long as it is moved with enough force and degree of inclination to activate the ball switch inside.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-020_5f4ffa5649b1f23f330a96cfcf11eac6_5_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-020_5f4ffa5649b1f23f330a96cfcf11eac6_5_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-020_5f4ffa5649b1f23f330a96cfcf11eac6_5_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-020_5f4ffa5649b1f23f330a96cfcf11eac6_5_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector0" name="S">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector0pin" terminalId="connector0terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector0pin"/>
+     <p layer="copper1" svgId="connector0pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector1" name="Vin">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin" terminalId="connector1terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector1pin"/>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="-">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin" terminalId="connector2terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-020-tilt-switch-module/</url>
+</module>
