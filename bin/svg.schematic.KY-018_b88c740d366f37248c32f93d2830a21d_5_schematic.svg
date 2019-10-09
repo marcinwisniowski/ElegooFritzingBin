@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg8662" width="15mm" gorn="0" height="23.5mm"  viewBox="0 0 53.149606 83.267716" version="1.1">
+    <desc >
+        <referenceFile >keyes_ky-018_photoresistor_breakout_3_300mil_schematic.svg</referenceFile>
+    </desc>
+    <defs id="defs8664" />
+    <metadata id="metadata8667" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="translate(8.4685035,-977.56299)">
+        <g >
+            <g id="layer2" gorn="0.3.0.0"  style="display:inline">
+                <rect id="rect13191" width="33.90538" y="987.18512" stroke-width="1.125" gorn="0.3.0.0.0" height="64.023438"  stroke="#000000" fill-opacity="0" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" fill="#ff0000" rx="1.1491016e-015" x="1.1536129" stroke-opacity="1"/>
+                <g id="text13198" font-size="5.3125" xml:space="preserve" stroke-width="1" gorn="0.3.0.0.1"  stroke="none" fill-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:miter;" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1">
+                    <text id="tspan13200" y="1002.3176" gorn="0.3.0.0.1.0"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" x="18.092033">KY-018</text>
+                </g>
+                <g id="text13202" font-size="7.5" xml:space="preserve" stroke-width="1" gorn="0.3.0.0.2"  stroke="none" fill-opacity="1" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal;" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1"/>
+                <g  transform="matrix(0,-1,1,0,0,0)">
+                    <g >
+                        <g id="text13259" font-size="4.375" xml:space="preserve" stroke-width="1" gorn="0.3.0.0.3.0.0"  stroke="none" fill-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" fill="#555555" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1">
+                            <text id="tspan13261" y="19.686489" gorn="0.3.0.0.3.0.0.0"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" x="-1049.1331">Vin</text>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(0,-1,1,0,0,0)">
+                    <g >
+                        <g id="text13259-2" font-size="4.375" xml:space="preserve" stroke-width="1" gorn="0.3.0.0.4.0.0"  stroke="none" fill-opacity="1" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal;" fill="#555555" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1">
+                            <text id="tspan13261-6" y="10.698706" gorn="0.3.0.0.4.0.0.0"  style="-inkscape-font-specification:Droid Sans;font-family:Droid Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" x="-1048.9216">S</text>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(0,-1,1,0,0,0)">
+                    <g >
+                        <g id="text13259-26" font-size="4.375" xml:space="preserve" stroke-width="1" gorn="0.3.0.0.5.0.0"  stroke="none" fill-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;letter-spacing:0px;word-spacing:0px;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" fill="#555555" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1">
+                            <text id="tspan13261-3" y="28.643715" gorn="0.3.0.0.5.0.0.0"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" x="-1049.1758">GND</text>
+                        </g>
+                    </g>
+                </g>
+                <line id="connector0pin" stroke-width="0.75035506" gorn="0.3.0.0.6" y2="1060.4229"  stroke="#555555" x1="9.1733227" style="stroke-linecap:round;stroke-linejoin:round" fill="none" x2="9.1733227" y1="1052.1486"/>
+                <rect id="connector0terminal" width="0.00150071" stroke-width="0" y="1060.79" height="0.0180493" stroke="none" fill="none" x="9.17257"/>
+                <line id="connector1pin" stroke-width="0.74909949" gorn="0.3.0.0.7" y2="1060.4242"  stroke="#555555" x1="18.093929" style="display:inline;stroke-linecap:round;stroke-linejoin:round" fill="none" x2="18.093929" y1="1052.1776"/>
+                <rect id="connector1terminal" width="0.0014982" stroke-width="0" y="1060.79" height="0.0179914" stroke="none" fill="none" x="18.0932"/>
+                <line id="connector2pin" stroke-width="0.75035506" gorn="0.3.0.0.8" y2="1060.4229"  stroke="#555555" x1="27.180838" style="display:inline;stroke-linecap:round;stroke-linejoin:round" fill="none" x2="27.180838" y1="1052.1486"/>
+                <rect id="connector2terminal" width="0.00150071" stroke-width="0" y="1060.79" height="0.0180493" stroke="none" fill="none" x="27.1801"/>
+            </g>
+        </g>
+    </g>
+</svg>

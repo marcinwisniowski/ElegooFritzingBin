@@ -208,5 +208,8 @@
         <instance moduleIdRef="KY-013_a4adc30daf47b96149b4095fdbed82b1_5" modelIndex="66" path="part.KY-013_a4adc30daf47b96149b4095fdbed82b1_5.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="KY-018_b88c740d366f37248c32f93d2830a21d_5" modelIndex="67" path="part.KY-018_b88c740d366f37248c32f93d2830a21d_5.fzp">
+            <views/>
+        </instance>
     </instances>
 </module>
