@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-013_a4adc30daf47b96149b4095fdbed82b1_5" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-013 Analog Temperature Sensor Module
+</title>
+ <label>Part</label>
+ <date>Mon Oct 17 2016</date>
+ <tags>
+  <tag>Analog Temperature sensor</tag>
+  <tag>KEYES</tag>
+  <tag>Analog</tag>
+  <tag>KY-013</tag>
+  <tag>arduinomodules.info</tag>
+  <tag>Thermistor</tag>
+ </tags>
+ <properties>
+  <property name="family">KY-013</property>
+  <property name="variant">variant 1</property>
+  <property name="Operating Voltage">5V</property>
+  <property name="hole size"></property>
+  <property name="editable pin labels">false</property>
+  <property name="pin spacing">300mil</property>
+  <property name="pins">3</property>
+  <property name="chip label">KY-013</property>
+  <property name="part number"></property>
+  <property name="package">Breakout board</property>
+  <property name="Measurement Accuracy">±0.5°C</property>
+  <property name="Temperature measurement range">-55°C to 125°C [-67°F to 257°F]</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="layer"></property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>KY-013 Analog Temperature Sensor module, measures ambient temperature based on resistance of the thermistor.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-013_a4adc30daf47b96149b4095fdbed82b1_7_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-013_a4adc30daf47b96149b4095fdbed82b1_7_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-013_a4adc30daf47b96149b4095fdbed82b1_7_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-013_a4adc30daf47b96149b4095fdbed82b1_7_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector0" name="S">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector1" name="Vin">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="-">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-013-analog-temperature-sensor-module</url>
+</module>
