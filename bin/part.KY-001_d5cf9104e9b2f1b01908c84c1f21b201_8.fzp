@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-001_d5cf9104e9b2f1b01908c84c1f21b201_8" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-001 Temperature Sensor Module </title>
+ <label>Part</label>
+ <date>Fri Jul 15 2016</date>
+ <tags>
+  <tag>arduinomodules.info</tag>
+  <tag>Temperature Sensor</tag>
+  <tag>DS18B20</tag>
+  <tag>Arduino</tag>
+  <tag>KEYES</tag>
+  <tag>KY-001</tag>
+ </tags>
+ <properties>
+  <property name="family">KY-001</property>
+  <property name="variant">variant 1</property>
+  <property name="sensor">DS18B20</property>
+  <property name="pins">3</property>
+  <property name="accuracy range">±0.5°C</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+  <property name="pin spacing">300mil</property>
+  <property name="editable pin labels">false</property>
+  <property name="chip label">KY-001</property>
+  <property name="package">Breakout board</property>
+  <property name="operating voltage">3.0V to 5.5V</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="hole size"></property>
+  <property name="temperature range">-55°C to 125°C [-57°F to 257°F]</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>Arduino Temperature Sensor Module Keyes KY-001, Allows ambient temperature measurement using digital serial bus (DS18B20).</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-001_e67a4f3e6cf9f9c560771409ca99549c_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-001_e67a4f3e6cf9f9c560771409ca99549c_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-001_e67a4f3e6cf9f9c560771409ca99549c_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-001_e67a4f3e6cf9f9c560771409ca99549c_3_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="S" type="male">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="Vin" type="male">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="-" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-001-temperature-sensor-module</url>
+</module>
