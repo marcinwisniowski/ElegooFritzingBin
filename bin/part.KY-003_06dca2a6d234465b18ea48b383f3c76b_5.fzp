@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-003_06dca2a6d234465b18ea48b383f3c76b_5" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-003 Hall Magnetic Sensor Module</title>
+ <label>Part</label>
+ <date>Fri Jul 15 2016</date>
+ <tags>
+  <tag>Arduino</tag>
+  <tag>Hall Magnetic </tag>
+  <tag>arduinomodules.info</tag>
+  <tag>KY-003</tag>
+  <tag>KEYES</tag>
+  <tag>breakout board</tag>
+  <tag>module</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">KY-003</property>
+  <property name="hole size"></property>
+  <property name="chip label">KY-003</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="pins">3</property>
+  <property name="layer"></property>
+  <property name="package">Breakout board</property>
+  <property name="part number"></property>
+  <property name="editable pin labels">false</property>
+  <property name="pin spacing">300mil</property>
+  <property name="operating voltage">4.5V to 24V</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>KEYES KY-003 Arduino Hall Magnetic Sensor Module is a switch that will turn on/off in the presence of a magnetic field.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-003_006479699c7c81ce51ba481f9bb7079b_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-003_006479699c7c81ce51ba481f9bb7079b_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-003_006479699c7c81ce51ba481f9bb7079b_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-003_006479699c7c81ce51ba481f9bb7079b_3_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="S" type="male">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="Vin" type="male">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="-" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-003-hall-magnetic-sensor-module</url>
+</module>
