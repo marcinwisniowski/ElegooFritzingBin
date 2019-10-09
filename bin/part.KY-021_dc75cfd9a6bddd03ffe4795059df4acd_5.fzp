@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-021_dc75cfd9a6bddd03ffe4795059df4acd_5" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-021 Mini Magnetic Reed Switch Module
+</title>
+ <label>Part</label>
+ <date>Mon Nov 27 2017</date>
+ <tags>
+  <tag>Arduino</tag>
+  <tag>arduinomodules.info</tag>
+  <tag>Magnetic</tag>
+  <tag>Reed Switch</tag>
+  <tag>KY-021</tag>
+  <tag>KEYES</tag>
+ </tags>
+ <properties>
+  <property name="family">KY-021</property>
+  <property name="variant">variant 1</property>
+  <property name="part number"></property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="Operating Voltage">3.3V to 5V</property>
+  <property name="chip label">KY-021</property>
+  <property name="hole size"></property>
+  <property name="pin spacing">300mil</property>
+  <property name="pins">3</property>
+  <property name="editable pin labels">false</property>
+  <property name="package">Breakout board</property>
+  <property name="output type">digital</property>
+  <property name="layer"></property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>KY-021 magnetic reed switch module. A reed switch is a magnetic sensor that is normally open and gets closed when exposed to a magnetic field.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-021_dc75cfd9a6bddd03ffe4795059df4acd_5_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-021_dc75cfd9a6bddd03ffe4795059df4acd_5_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-021_dc75cfd9a6bddd03ffe4795059df4acd_5_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-021_dc75cfd9a6bddd03ffe4795059df4acd_5_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector name="S" id="connector0" type="male">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="Vin" id="connector1" type="male">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="-" id="connector2" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-021-mini-magn…ed-switch-module/</url>
+</module>
