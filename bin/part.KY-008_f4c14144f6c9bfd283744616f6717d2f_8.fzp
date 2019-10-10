@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-008_f4c14144f6c9bfd283744616f6717d2f_8" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-008 Laser Transmitter Module</title>
+ <label>Part</label>
+ <date>Fri Jul 15 2016</date>
+ <tags>
+  <tag>KEYES</tag>
+  <tag>arduinomodules.info</tag>
+  <tag>KY-008</tag>
+  <tag>Laser Transmitter</tag>
+  <tag>Arduino</tag>
+ </tags>
+ <properties>
+  <property name="layer"></property>
+  <property name="family">KY-008</property>
+  <property name="package">Breakout board</property>
+  <property name="Power Consumption">less than 40mA</property>
+  <property name="editable pin labels">false</property>
+  <property name="Output Power&#x9;">5mW
+</property>
+  <property name="Wavelength">650nm</property>
+  <property name="Operating Voltage">5V</property>
+  <property name="chip label">KY-008</property>
+  <property name="hole size"></property>
+  <property name="part number"></property>
+  <property name="variant">variant 1</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="pins">3</property>
+  <property name="pin spacing">300mil</property>
+  <property name="output power">5mW
+</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>Laser Transmitter module KY-008 for Arduino, emits a dot shaped red laser beam.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-008_bd368894f4f1469bd0b6e9ad719f6b4b_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-008_bd368894f4f1469bd0b6e9ad719f6b4b_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-008_bd368894f4f1469bd0b6e9ad719f6b4b_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-008_bd368894f4f1469bd0b6e9ad719f6b4b_3_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="S" type="male">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="-" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-008-laser-transmitter-module</url>
+</module>

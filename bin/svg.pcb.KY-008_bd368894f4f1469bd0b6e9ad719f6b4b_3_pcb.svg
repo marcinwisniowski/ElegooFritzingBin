@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16594"  gorn="0" height="18.000113mm" version="1.1" width="14.999847mm" viewBox="0 0 53.149066 63.779926">
+    <desc >
+        <referenceFile >keyes_ky-008_laser_transmitter_breakout_3_300mil_pcb.svg</referenceFile>
+    </desc>
+    <defs id="defs16596" />
+    <metadata id="metadata16599" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="translate(-224.67547,-457.43653)">
+        <g >
+            <g >
+                <g >
+                    <g id="silkscreen"  gorn="0.3.0.0.0.0">
+                        <path id="path20585" stroke="#000000"  gorn="0.3.0.0.0.0.0" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="1.0185" d="m 226.69954,520.26943 0,-61.49303" stroke-opacity="1"/>
+                        <path id="path20585-5" stroke="#000000"  gorn="0.3.0.0.0.0.1" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="1.0185" d="m 276.44203,520.26943 0,-61.49303" stroke-opacity="1"/>
+                        <path id="path20602" stroke="#000000"  gorn="0.3.0.0.0.0.2" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="1.01854" d="m 227.20085,459.09207 48.9924,0" stroke-opacity="1"/>
+                        <path id="path20602-6" stroke="#000000"  gorn="0.3.0.0.0.0.3" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="1.01854" d="m 227.20085,519.95377 48.9924,0" stroke-opacity="1"/>
+                        <g id="text21167" stroke="none" xml:space="preserve"  gorn="0.3.0.0.0.0.4" fill-opacity="1" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" font-size="5.3125" stroke-width="1" stroke-opacity="1">
+                            <text id="tspan21169" x="240.04988"  gorn="0.3.0.0.0.0.4.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA" y="470.20377">KY-008</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="copper0"  gorn="0.4">
+        <g id="copper1"  gorn="0.4.0">
+            <path id="connector2pin" stroke="#f7bd13"  gorn="0.4.0.0" fill-opacity="0" fill="#2e2e2e" style="display:inline;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.29999995" d="m 38.041176,54.953565 a 2.388393,2.3883932 0 0 1 -2.38839,2.38839 2.388393,2.3883932 0 0 1 -2.38839,-2.38839 2.388393,2.3883932 0 0 1 2.38839,-2.3884 2.388393,2.3883932 0 0 1 2.38839,2.3884 z m -4.97767,-2.67858 5.17857,0 c 0,0 0,0 0,0 l 0,5.22322 c 0,0 0,0 0,0 l -5.17857,0 c 0,0 0,0 0,0 l 0,-5.22322 c 0,0 0,0 0,0 z" stroke-opacity="1"/>
+            <circle id="path8375-3-9" stroke="#f7bd13" r="2.3883932"  gorn="0.4.0.1" fill-opacity="0" cx="26.883507" fill="#2e2e2e" style="display:inline;" stroke-width="1" cy="54.886608" stroke-opacity="1"/>
+            <circle id="connector0pin" stroke="#f7bd13" r="2.3883932"  gorn="0.4.0.2" fill-opacity="0" cx="18.308189" fill="#2e2e2e" style="display:inline;" stroke-width="1" cy="54.886608" stroke-opacity="1"/>
+        </g>
+    </g>
+</svg>
