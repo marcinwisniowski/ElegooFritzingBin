@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-027_7fc29f9e21a7e202bcc0877181641b04_9" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-027 Magic Light Cup Module</title>
+ <label>Part</label>
+ <date>Tue Nov 20 2018</date>
+ <tags>
+  <tag>KEYES</tag>
+  <tag>KY-027</tag>
+  <tag>Tilt Switch</tag>
+  <tag>arduinomodules.info</tag>
+  <tag>Magic Light Cup</tag>
+  <tag>Mercury Switch</tag>
+  <tag>Arduino</tag>
+  <tag>LED</tag>
+ </tags>
+ <properties>
+  <property name="family">KY-027</property>
+  <property name="variant">variant 1</property>
+  <property name="hole size"></property>
+  <property name="layer"></property>
+  <property name="operating voltage">3.3 to 5V</property>
+  <property name="part number"></property>
+  <property name="pins">4</property>
+  <property name="package">Breakout board</property>
+  <property name="chip label">KY-027</property>
+  <property name="editable pin labels">false</property>
+  <property name="pin spacing">300mil</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>Arduino KY-0127 magic light cup module is a set of two boards, each one has a led and a mercury tilt switch. Using PWM to drive the LEDs on each module you can achieve the effect of light being 'magically' transferred from one module to the other when tilting them.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-027_7fc29f9e21a7e202bcc0877181641b04_9_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-027_7fc29f9e21a7e202bcc0877181641b04_9_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-027_7fc29f9e21a7e202bcc0877181641b04_9_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-027_7fc29f9e21a7e202bcc0877181641b04_9_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector name="G" id="connector0" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" terminalId="connector0terminal" svgId="connector0pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector0terminal" svgId="connector0pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector0pin"/>
+     <p layer="copper1" svgId="connector0pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="+" id="connector1" type="male">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" terminalId="connector1terminal" svgId="connector1pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector1terminal" svgId="connector1pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector1pin"/>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="S" id="connector2" type="male">
+   <description>Switch</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" terminalId="connector2terminal" svgId="connector2pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector2terminal" svgId="connector2pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="L" id="connector3" type="male">
+   <description>LED</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" terminalId="connector3terminal" svgId="connector3pin"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" terminalId="connector3terminal" svgId="connector3pin"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector3pin"/>
+     <p layer="copper1" svgId="connector3pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>https://arduinomodules.info/ky-027-magic-light-cup-module/</url>
+</module>

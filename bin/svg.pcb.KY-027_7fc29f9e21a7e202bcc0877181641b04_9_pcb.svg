@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="14.99836mm" version="1.1" id="svg16594" gorn="0" height="18.497606mm"  viewBox="0 0 53.143795 65.542699">
+    <desc >
+        <referenceFile >KY-027_magic_light_cup_module_breakout_4_300mil_pcb.svg</referenceFile>
+    </desc>
+    <defs id="defs16596" />
+    <metadata id="metadata16599" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="keepout" gorn="0.3" >
+        <g stroke="none" font-size="5.3125" id="text21167" gorn="0.3.0" stroke-width="1" xmlns:xml="http://www.w3.org/XML/1998/namespace"  stroke-opacity="1" xml:space="preserve" fill="#000000" fill-opacity="1" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;">
+            <text id="tspan21169" gorn="0.3.0.0" y="14.203773"  x="15.183318" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA">KY-027</text>
+        </g>
+    </g>
+    <g id="soldermask" gorn="0.4" />
+    <g transform="translate(3.8344205,2.532233)" >
+        <g >
+            <g id="copper0" gorn="0.5.0.0" >
+                <g id="copper1" gorn="0.5.0.0.0" >
+                    <path stroke="#f7bd13" id="connector0pin" gorn="0.5.0.0.0.0" stroke-width="1.29999995"  stroke-opacity="1" d="m 11.93175,54.98629 a 2.388393,2.3883932 0 0 1 -2.3883899,2.38839 2.388393,2.3883932 0 0 1 -2.38839,-2.38839 2.388393,2.3883932 0 0 1 2.38839,-2.3884 2.388393,2.3883932 0 0 1 2.3883899,2.3884 z m -4.9776699,-2.67858 5.1785699,0 c 0,0 0,0 0,0 l 0,5.22322 c 0,0 0,0 0,0 l -5.1785699,0 c 0,0 0,0 0,0 l 0,-5.22322 c 0,0 0,0 0,0 z" fill="#2e2e2e" fill-opacity="0" style="display:inline;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                    <circle stroke="#f7bd13" r="2.3883932" id="connector1pin" gorn="0.5.0.0.0.1" stroke-width="1"  stroke-opacity="1" cx="18.309719" cy="54.919319" fill="#2e2e2e" fill-opacity="0" style="display:inline;"/>
+                    <circle stroke="#f7bd13" r="2.3883932" id="connector2pin" gorn="0.5.0.0.0.2" stroke-width="1"  stroke-opacity="1" cx="26.883507" cy="54.919319" fill="#2e2e2e" fill-opacity="0" style="display:inline;"/>
+                    <circle stroke="#f7bd13" r="2.3883932" id="connector3pin" gorn="0.5.0.0.0.3" stroke-width="1"  stroke-opacity="1" cx="35.65279" cy="54.919319" fill="#2e2e2e" fill-opacity="0" style="display:inline;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1.0480196,0,0,1.0600807,-237.07922,-486.16245)" >
+        <g >
+            <g id="outline" gorn="0.6.0.0" >
+                <path stroke="#000000" id="path20585" gorn="0.6.0.0.0" stroke-width="0.966288"  stroke-opacity="1" d="m 226.69954,520.26943 0,-61.49303" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;"/>
+                <path stroke="#000000" id="path20585-5" gorn="0.6.0.0.1" stroke-width="0.966288"  stroke-opacity="1" d="m 276.44203,520.26943 0,-61.49303" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;"/>
+                <path stroke="#000000" id="path20602" gorn="0.6.0.0.2" stroke-width="0.966331"  stroke-opacity="1" d="m 227.20085,459.09207 48.9924,0" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;"/>
+                <path stroke="#000000" id="path20602-6" gorn="0.6.0.0.3" stroke-width="0.966331"  stroke-opacity="1" d="m 227.20085,519.95377 48.9924,0" fill="none" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;"/>
+            </g>
+        </g>
+    </g>
+</svg>
