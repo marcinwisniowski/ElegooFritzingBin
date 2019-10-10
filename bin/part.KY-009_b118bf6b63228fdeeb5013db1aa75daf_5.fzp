@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-009_b118bf6b63228fdeeb5013db1aa75daf_5" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-009 Full Color RGB LED SMD Module</title>
+ <label>Part</label>
+ <date>Fri Jul 15 2016</date>
+ <tags>
+  <tag>KEYES</tag>
+  <tag>Arduino</tag>
+  <tag>RGB LED SMD</tag>
+  <tag>5050 LED</tag>
+  <tag>KY-006</tag>
+  <tag>arduinomodules.info</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">KY-009</property>
+  <property name="package">Breakout board</property>
+  <property name="pins">4</property>
+  <property name="part number"></property>
+  <property name="chip label">KY-009</property>
+  <property name="hole size"></property>
+  <property name="layer"></property>
+  <property name="pin spacing">300mil</property>
+  <property name="editable pin labels">false</property>
+  <property name="LED">5050 SMD LED</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>RGB full color LED Module KY-009 for Arduino, emits a range of colors by mixing red, green and blue. The amount of each primary color is adjusted using PWM.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-009_a3e9bf13d32a51a1683764fed7ed08ea_3_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-009_a3e9bf13d32a51a1683764fed7ed08ea_3_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-009_a3e9bf13d32a51a1683764fed7ed08ea_3_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-009_a3e9bf13d32a51a1683764fed7ed08ea_3_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="-" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="R" type="male">
+   <description>Red</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="G" type="male">
+   <description>Green</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" name="B" type="male">
+   <description>Blue</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector3terminal" svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector3terminal" svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-009-rgb-full-color-led-smd-module</url>
+</module>
