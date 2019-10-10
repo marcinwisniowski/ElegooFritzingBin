@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-016_6e5c5e1160376fa5d6fd95838c820fa2_6" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-016 RGB Full Color LED Module</title>
+ <label>Part</label>
+ <date>Mon Jan 16 2017</date>
+ <tags>
+  <tag>Arduino</tag>
+  <tag>LED</tag>
+  <tag>KY-006</tag>
+  <tag>RGB LED</tag>
+  <tag>KEYES</tag>
+  <tag>arduinomodules.info</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">KY-016</property>
+  <property name="editable pin labels">false</property>
+  <property name="operating voltage">5 V</property>
+  <property name="LED">5mm LED</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+  <property name="pins">4</property>
+  <property name="chip label">KY-016</property>
+  <property name="package">Breakout board</property>
+  <property name="pin spacing">300mil</property>
+  <property name="hole size"></property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>KY-016 Arduino full color 5mm RGB LED, different colors can be obtained by mixing the three primary colors.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-016_6e5c5e1160376fa5d6fd95838c820fa2_7_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-016_6e5c5e1160376fa5d6fd95838c820fa2_7_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-016_6e5c5e1160376fa5d6fd95838c820fa2_7_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-016_6e5c5e1160376fa5d6fd95838c820fa2_7_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="-" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard" terminalId="connector0terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="R" type="male">
+   <description>Red</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard" terminalId="connector1terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="G" type="male">
+   <description>Green</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard" terminalId="connector2terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" name="B" type="male">
+   <description>Blue</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard" terminalId="connector3terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic" terminalId="connector3terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-016-rgb-full-color-led-module/</url>
+</module>
