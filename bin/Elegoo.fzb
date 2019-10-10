@@ -167,6 +167,9 @@
         <instance moduleIdRef="KY-033_430f73f7beb8c18f52c3941f1d4400ad_11" modelIndex="81" path="part.KY-033_430f73f7beb8c18f52c3941f1d4400ad_11.fzp">
             <views/>
         </instance>
+        <instance moduleIdRef="KY-005_075b493858fc91745ca1019180e618ad_5" modelIndex="82" path="part.KY-005_075b493858fc91745ca1019180e618ad_5.fzp">
+            <views/>
+        </instance>
         <!-- Sensors -->
         <instance moduleIdRef="__spacer__" modelIndex="3" path="Sensors">
            <text>Sensors</text>
