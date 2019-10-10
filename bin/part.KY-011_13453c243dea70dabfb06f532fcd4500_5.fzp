@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="KY-011_13453c243dea70dabfb06f532fcd4500_5" referenceFile="generic_ic_dip_4_300mil.fzp">
+ <version>4</version>
+ <author>arduinomodules.info</author>
+ <title>KY-011 Two Color LED Module</title>
+ <label>Part</label>
+ <date>Thu Sep 8 2016</date>
+ <tags>
+  <tag>breakout board</tag>
+  <tag>module</tag>
+  <tag>KEYES</tag>
+  <tag>KY-011</tag>
+  <tag>LED</tag>
+  <tag>arduinomodules.info</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">KY-011</property>
+  <property name="pin spacing">300mil</property>
+  <property name="part number"></property>
+  <property name="pins">3</property>
+  <property name="beam angle">150</property>
+  <property name="hole size"></property>
+  <property name="package">Breakout board</property>
+  <property name="luminosity intensity (MCD)">20-40; 40-80;</property>
+  <property name="chip label">KY-011</property>
+  <property name="editable pin labels">false</property>
+  <property name="color">red + green</property>
+  <property name="dimensions">18.5mm x 15mm [0.728in x 0.591in]</property>
+  <property name="wavelength">571nm + 644nm</property>
+  <property name="led diameter">3mm</property>
+  <property name="operating voltage">2.0V to 2.5V</property>
+  <property name="layer"></property>
+  <property name="using current">10mA</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>KEYES KY-011 Two Color LED Module consist of a common cathode 3mm red/green LED.</description>
+ <views>
+  <iconView>
+   <layers image="icon/KY-011_13453c243dea70dabfb06f532fcd4500_5_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/KY-011_13453c243dea70dabfb06f532fcd4500_5_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/KY-011_13453c243dea70dabfb06f532fcd4500_5_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/KY-011_13453c243dea70dabfb06f532fcd4500_5_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" name="S" id="connector0">
+   <description>Green</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="Vin" id="connector1">
+   <description>Red</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" name="-" id="connector2">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://arduinomodules.info/ky-011-two-color-led-module-3mm/</url>
+</module>
